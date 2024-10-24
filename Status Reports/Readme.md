@@ -18,7 +18,7 @@ Status Report Fall Week XX.md is a template for to copy-paste into new Status re
 | Week 5 Status Report | Ask professor for clarification on proposal and continue working on Pytorch and designing more diagrams in AutoCAD | Finish with most of the proposal | Confusion on some parts of the proposal |
 | Week 6 Status Report | Met with professor reguarding the team proposal to make sure we are following the requirements of it correctly before final submission | Completed the Team Proposal document required by thie friday | Finding the way for us to achieve the 1000+ images for the model to train on |
 | Week 7 Status Report | work on developing more diagrams and training the model on these diagrams to confirm them | focused on midterms for classes and did little work on the actual project | not many to mention, more just finding time to work on it during the busy part of the semester |
-| Week 8 Status Report | | | |
+| Week 8 Status Report | get the basic work on the poster done and progress further on the development of our ML algorithm | Talked with professor on how to implement the labels on our diagrams | exactly what should be done for the presentation portion of this semester |
 | Week 9 Status Report | | | |
 | Week 10 Status Report | | | |
 | Week 11 Status Report | | | |
