@@ -6,3 +6,11 @@
 | Detailed Design | Identify modules making up each component.  data flows between modules.  Also ERDs and other documentation depending upon technologies used |
 | Installation Guide| How to install and configure the project |
 | User Guide | Any user interface instructions |
+
+
+TODO:
+* Implement save/load for model
+* Determine proper batch size
+
+MISC:
+* Create requirements.txt
