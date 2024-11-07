@@ -21,7 +21,7 @@ Status Report Fall Week XX.md is a template for to copy-paste into new Status re
 | Week 8 Status Report | get the basic work on the poster done and progress further on the development of our ML algorithm | Talked with professor on how to implement the labels on our diagrams | exactly what should be done for the presentation portion of this semester |
 | Week 9 Status Report | Worked on new ML model to test other implementations and mapped out whats needed for the poster | developed a separate basic model to tests on images | Not understanding where our advisor wants us to develop our algorithms |
 | Week 10 Status Report | Discussed and plan out project poster and assigned tasks for different sections of the poster for each member. | Clarify with advisor on how to improve our diagrams and models. | Determine how we want to collaborately work on the poster. |
-| Week 11 Status Report | | | |
+| Week 11 Status Report | Reorganized files to show labels for development and got new direwction on how to approach the diagram testing | All diagram files are up to date with the proper formatting | Understanding how to make a component of a line |
 | Week 12 Status Report | | | |
 | Week 13 Status Report | | | |
 | Week 14 Status Report | | | |
