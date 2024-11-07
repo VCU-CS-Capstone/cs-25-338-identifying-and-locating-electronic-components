@@ -16,4 +16,4 @@
    - finish poster for deadline on 11/15
 
 ## 3) Issues, problems or concerns ##
-   - none at the moment
+   - discuss and finialize poster design and implementation
