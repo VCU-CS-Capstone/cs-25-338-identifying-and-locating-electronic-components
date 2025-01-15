@@ -24,15 +24,12 @@ Status Report Fall Week XX.md is a template for to copy-paste into new Status re
 | Week 11 Status Report | Reorganized files to show labels for development and got new direwction on how to approach the diagram testing | All diagram files are up to date with the proper formatting | Understanding how to make a component of a line |
 | Week 12 Status Report | Meeting with professor on the method of labeling images for training purposes | made a decision on which ML model to be used | the exact structure of the folders for training the model |
 | Week 13 Status Report | Presented poster, finished the preliminary design report |keep making diagrams and training model |finalizing our model and how we want to label our diagrams |
-| Week 14 Status Report | | | |
-| Week 15 Status Report | | | |
-| Week 16 Status Report | | | |
 
 ## Spring Semester
 
 | Document | Tasks | Accomplishments| Issues |
 |---|---|---|---|
-| Week 1 Status Report | | | |
+| Week 1 Status Report | produce more diagrams for testing purposes and grow data set using outside open source resources | produced next round of diagrams to add for data set | not able to produce enough diagrams ourselves for required amount |
 | Week 2 Status Report | | | |
 | Week 3 Status Report | | | |
 | Week 4 Status Report | | | |
