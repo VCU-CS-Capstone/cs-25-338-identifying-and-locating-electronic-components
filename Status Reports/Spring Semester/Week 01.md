@@ -7,12 +7,14 @@
 **Faculty Advisor: Dr. Changquing Luo**
 
 ## 1) Accomplishments this week ##
-   - met with professor on progress with model and diagrams
-   - continued to work on diagrams and creating labels
+   - added to data set from work over break
+   - research for open source data sets to aid in curation
 
 ## 2) Milestones to be completed next week ##
-   - work on advancing the catelogue of circuits images for use in model training
-   - continue training model on usable diagrams to improve accuracy
+   - work towards building up the data set further
 
 ## 3) Issues, problems or concerns ##
-   - need to get more clarity on label(s)
+   - not enough time to curate a data set size of what we need
+   
+
+
