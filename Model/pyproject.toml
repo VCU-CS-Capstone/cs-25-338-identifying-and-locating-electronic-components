@@ -10,7 +10,9 @@ dependencies = [
     "matplotlib>=3.10.0",
     "notebook>=7.3.2",
     "numpy>=2.2.1",
+    "pycocotools>=2.0.8",
     "scikit-learn>=1.6.1",
     "timm>=1.0.13",
     "torch>=2.5.1",
+    "ultralytics>=8.3.23",
 ]
