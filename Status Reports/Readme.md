@@ -31,7 +31,7 @@ Status Report Fall Week XX.md is a template for to copy-paste into new Status re
 |---|---|---|---|
 | Week 1 Status Report | produce more diagrams for testing purposes and grow data set using outside open source resources | produced next round of diagrams to add for data set | not able to produce enough diagrams ourselves for required amount |
 | Week 2 Status Report | Shift Focused to finding and developing diagrams faster as possible | researched for open-source datasets for training purposes | Unable to find datasets in which we could use for training |
-| Week 3 Status Report | | | |
+| Week 3 Status Report | keep searching for more ways to fasten the diagram creation | shared autocad file for opportunity to create diagrams on one collective file| Still unable to find datasets in which we could use for training |
 | Week 4 Status Report | | | |
 | Week 5 Status Report | | | |
 | Week 6 Status Report | | | |
