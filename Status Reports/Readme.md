@@ -33,8 +33,8 @@ Status Report Fall Week XX.md is a template for to copy-paste into new Status re
 | Week 2 Status Report | Shift Focused to finding and developing diagrams faster as possible | researched for open-source datasets for training purposes | Unable to find datasets in which we could use for training |
 | Week 3 Status Report | Keep searching for more ways to fasten the diagram creation | shared autocad file for opportunity to create diagrams on one collective file| Still unable to find datasets in which we could use for training |
 | Week 4 Status Report | Clarified the deliverables for the project in its current state to reorganize where we are | provided stats on how our model is running to group members | size needed for dataset is still up in the air |
-| Week 5 Status Report | | | |
-| Week 6 Status Report | | | |
+| Week 5 Status Report | built scripts to automate diagram creation | generate diagrams with python file for our dataset and relabel diagrams for the LLM | creating the script for the python diagram |
+| Week 6 Status Report | created more diagram using the python script | relabel diagrams for the model and create more diagrams that the model can use | increasing the accuracy of our model using the generated diagrams |
 | Week 7 Status Report | | | |
 | Week 8 Status Report | | | |
 | Week 9 Status Report | | | |
