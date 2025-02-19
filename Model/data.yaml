@@ -1,6 +1,0 @@
-names:
-  - 25FP
-nc: 1
-path: /Users/enerinn/Developer/CS25-338-main/Model
-train: images/train
-test: images/val/25FP
