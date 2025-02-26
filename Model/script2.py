@@ -9,7 +9,7 @@ def count_files_in_folders(directory):
     return folder_counts
 
 if __name__ == "__main__":
-    directory = "."
+    directory = "./labels"
     file_counts = count_files_in_folders(directory)
     
     for folder, count in file_counts.items():
