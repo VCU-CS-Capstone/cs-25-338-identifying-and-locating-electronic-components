@@ -47,6 +47,6 @@ names:
 - WAVETRAP_POT
 - XFMR
 nc: 47
-path: /Users/enerinn/Developer/CS25-338-main/Model
-train: images/train
-val: images/val
+path: ./images
+train: /home/enerinn/cs-25-338-identifying-and-locating-electronic-components/Model/images/train
+val: /home/enerinn/cs-25-338-identifying-and-locating-electronic-components/Model/images/val
