@@ -36,9 +36,9 @@ Status Report Fall Week XX.md is a template for to copy-paste into new Status re
 | Week 5 Status Report | built scripts to automate diagram creation | generate diagrams with python file for our dataset and relabel diagrams for the LLM | creating the script for the python diagram |
 | Week 6 Status Report | created more diagram using the python script | relabel diagrams for the model and create more diagrams that the model can use | increasing the accuracy of our model using the generated diagrams |
 | Week 7 Status Report | running tests on new datasets to see where we are at now | Created a sutiable sized dataset collection for initial testing purposes | Long period of waiting ofr single epochs to be completed |
-| Week 8 Status Report | keep tweaking hyperparameters for model, display accuracy value, and finish canvas github assignment| created powerpoint for an outline on our progress with the model and made strides in making our model more accurate | no issues at the moment |
-| Week 9 Status Report | | | |
-| Week 10 Status Report | | | |
+| Week 8 Status Report | keep tweaking hyperparameters for model, display accuracy value, and finish canvas github assignment | created powerpoint for an outline on our progress with the model and made strides in making our model more accurate | no issues at the moment |
+| Week 9 Status Report | built up the dataset further | test new methods and tweaks to parameters for the model | reaching the set goal for accuracy value |
+| Week 10 Status Report | achieved a 70% value for accuracy | obtain that 80% accuracy value needed | get project scope information for the rest of the semester |
 | Week 11 Status Report | | | |
 | Week 12 Status Report | | | |
 | Week 13 Status Report | | | |
