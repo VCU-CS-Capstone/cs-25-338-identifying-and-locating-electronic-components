@@ -1,17 +1,29 @@
 import os
-import re
+import shutil
 
-def restore_original_filenames(directory):
-    for file in os.listdir(directory):
-        # Remove the "XXXX_" prefix from filenames
-        new_name = re.sub(r'^\d{4}_', '', file)
-        old_path = os.path.join(directory, file)
-        new_path = os.path.join(directory, new_name)
+def move_every_4th_file(source_folder, target_folder):
+    """Move every 4th file from source_folder to target_folder."""
+    if not os.path.exists(target_folder):
+        os.makedirs(target_folder)
 
-        if old_path != new_path:  # Avoid renaming if the name is unchanged
-            os.rename(old_path, new_path)
-            print(f"Renamed: {file} -> {new_name}")
+    files = sorted(os.listdir(source_folder))  # Sort files for consistency
+    moved_files = 0
+
+    for index, file in enumerate(files, start=1):
+        file_path = os.path.join(source_folder, file)
+
+        if os.path.isfile(file_path) and index % 4 == 0:
+            shutil.move(file_path, os.path.join(target_folder, file))
+            moved_files += 1
+            print(f"Moved: {file}")
+
+    print(f"Total files moved: {moved_files}")
 
 if __name__ == "__main__":
-    restore_original_filenames("images/val")
-    restore_original_filenames("labels/val")
+    source_folder = "./labels/train"
+    target_folder = "./labels/val"
+
+    if os.path.isdir(source_folder):
+        move_every_4th_file(source_folder, target_folder)
+    else:
+        print("Invalid source folder path.")

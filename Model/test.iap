@@ -105660,6 +105660,4706 @@
           }
         ]
       }
+    },
+    {
+      "file_name": "Screenshot 2024-10-11 181209_scale0.8_rot0.png",
+      "width": 644,
+      "height": 632,
+      "is_multi_slice": false,
+      "annotations": {
+        "25FP": [
+          {
+            "segmentation": [
+              281,
+              250,
+              326,
+              250,
+              326,
+              302,
+              281,
+              302
+            ],
+            "category_id": 1,
+            "category_name": "25FP",
+            "number": 1
+          }
+        ]
+      }
+    },
+    {
+      "file_name": "Screenshot 2024-10-11 181209_scale0.8_rot2.png",
+      "width": 665,
+      "height": 654,
+      "is_multi_slice": false,
+      "annotations": {
+        "25FP": [
+          {
+            "segmentation": [
+              289,
+              262,
+              336,
+              262,
+              336,
+              313,
+              289,
+              313
+            ],
+            "category_id": 1,
+            "category_name": "25FP",
+            "number": 1
+          }
+        ]
+      }
+    },
+    {
+      "file_name": "Screenshot 2024-10-11 181209_scale0.8_rot30.png",
+      "width": 873,
+      "height": 869,
+      "is_multi_slice": false,
+      "annotations": {
+        "25FP": [
+          {
+            "segmentation": [
+              372,
+              382,
+              425,
+              382,
+              425,
+              432,
+              372,
+              432
+            ],
+            "category_id": 1,
+            "category_name": "25FP",
+            "number": 1
+          }
+        ]
+      }
+    },
+    {
+      "file_name": "Screenshot 2024-10-11 181209_scale0.8_rot45.png",
+      "width": 902,
+      "height": 902,
+      "is_multi_slice": false,
+      "annotations": {
+        "25FP": [
+          {
+            "segmentation": [
+              387,
+              414,
+              432,
+              414,
+              432,
+              460,
+              387,
+              460
+            ],
+            "category_id": 1,
+            "category_name": "25FP",
+            "number": 1
+          }
+        ]
+      }
+    },
+    {
+      "file_name": "Screenshot 2024-10-11 181209_scale0.8_rot90.png",
+      "width": 632,
+      "height": 644,
+      "is_multi_slice": false,
+      "annotations": {
+        "25FP": [
+          {
+            "segmentation": [
+              254,
+              319,
+              299,
+              319,
+              299,
+              363,
+              254,
+              363
+            ],
+            "category_id": 1,
+            "category_name": "25FP",
+            "number": 1
+          }
+        ]
+      }
+    },
+    {
+      "file_name": "Screenshot 2024-10-11 181209_scale0.8_rot180.png",
+      "width": 644,
+      "height": 632,
+      "is_multi_slice": false,
+      "annotations": {
+        "25FP": [
+          {
+            "segmentation": [
+              321,
+              330,
+              364,
+              330,
+              364,
+              377,
+              321,
+              377
+            ],
+            "category_id": 1,
+            "category_name": "25FP",
+            "number": 1
+          }
+        ]
+      }
+    },
+    {
+      "file_name": "Screenshot 2024-10-11 181209_scale0.8_rot270.png",
+      "width": 632,
+      "height": 644,
+      "is_multi_slice": false,
+      "annotations": {
+        "25FP": [
+          {
+            "segmentation": [
+              334,
+              281,
+              377,
+              281,
+              377,
+              325,
+              334,
+              325
+            ],
+            "category_id": 1,
+            "category_name": "25FP",
+            "number": 1
+          }
+        ]
+      }
+    },
+    {
+      "file_name": "Screenshot 2024-10-11 181209_scale0.9_rot0.png",
+      "width": 724,
+      "height": 711,
+      "is_multi_slice": false,
+      "annotations": {
+        "25FP": [
+          {
+            "segmentation": [
+              315,
+              286,
+              366,
+              286,
+              366,
+              337,
+              315,
+              337
+            ],
+            "category_id": 1,
+            "category_name": "25FP",
+            "number": 1
+          }
+        ]
+      }
+    },
+    {
+      "file_name": "Screenshot 2024-10-11 181209_scale0.9_rot2.png",
+      "width": 748,
+      "height": 735,
+      "is_multi_slice": false,
+      "annotations": {
+        "25FP": [
+          {
+            "segmentation": [
+              326,
+              297,
+              377,
+              297,
+              377,
+              351,
+              326,
+              351
+            ],
+            "category_id": 1,
+            "category_name": "25FP",
+            "number": 1
+          }
+        ]
+      }
+    },
+    {
+      "file_name": "Screenshot 2024-10-11 181209_scale0.9_rot30.png",
+      "width": 982,
+      "height": 977,
+      "is_multi_slice": false,
+      "annotations": {
+        "25FP": [
+          {
+            "segmentation": [
+              422,
+              439,
+              477,
+              439,
+              477,
+              486,
+              422,
+              486
+            ],
+            "category_id": 1,
+            "category_name": "25FP",
+            "number": 1
+          }
+        ]
+      }
+    },
+    {
+      "file_name": "Screenshot 2024-10-11 181209_scale0.9_rot45.png",
+      "width": 1014,
+      "height": 1014,
+      "is_multi_slice": false,
+      "annotations": {
+        "25FP": [
+          {
+            "segmentation": [
+              437,
+              467,
+              486,
+              467,
+              486,
+              515,
+              437,
+              515
+            ],
+            "category_id": 1,
+            "category_name": "25FP",
+            "number": 1
+          }
+        ]
+      }
+    },
+    {
+      "file_name": "Screenshot 2024-10-11 181209_scale0.9_rot90.png",
+      "width": 711,
+      "height": 724,
+      "is_multi_slice": false,
+      "annotations": {
+        "25FP": [
+          {
+            "segmentation": [
+              284,
+              358,
+              339,
+              358,
+              339,
+              409,
+              284,
+              409
+            ],
+            "category_id": 1,
+            "category_name": "25FP",
+            "number": 1
+          }
+        ]
+      }
+    },
+    {
+      "file_name": "Screenshot 2024-10-11 181209_scale0.9_rot180.png",
+      "width": 724,
+      "height": 711,
+      "is_multi_slice": false,
+      "annotations": {
+        "25FP": [
+          {
+            "segmentation": [
+              360,
+              373,
+              408,
+              373,
+              408,
+              426,
+              360,
+              426
+            ],
+            "category_id": 1,
+            "category_name": "25FP",
+            "number": 1
+          }
+        ]
+      }
+    },
+    {
+      "file_name": "Screenshot 2024-10-11 181209_scale0.9_rot270.png",
+      "width": 711,
+      "height": 724,
+      "is_multi_slice": false,
+      "annotations": {
+        "25FP": [
+          {
+            "segmentation": [
+              371,
+              317,
+              427,
+              317,
+              427,
+              366,
+              371,
+              366
+            ],
+            "category_id": 1,
+            "category_name": "25FP",
+            "number": 1
+          }
+        ]
+      }
+    },
+    {
+      "file_name": "Screenshot 2024-10-11 181209_scale0.65_rot0.png",
+      "width": 523,
+      "height": 514,
+      "is_multi_slice": false,
+      "annotations": {
+        "25FP": [
+          {
+            "segmentation": [
+              227,
+              206,
+              266,
+              206,
+              266,
+              243,
+              227,
+              243
+            ],
+            "category_id": 1,
+            "category_name": "25FP",
+            "number": 1
+          }
+        ]
+      }
+    },
+    {
+      "file_name": "Screenshot 2024-10-11 181209_scale0.65_rot2.png",
+      "width": 540,
+      "height": 531,
+      "is_multi_slice": false,
+      "annotations": {
+        "25FP": [
+          {
+            "segmentation": [
+              234,
+              214,
+              274,
+              214,
+              274,
+              254,
+              234,
+              254
+            ],
+            "category_id": 1,
+            "category_name": "25FP",
+            "number": 1
+          }
+        ]
+      }
+    },
+    {
+      "file_name": "Screenshot 2024-10-11 181209_scale0.65_rot30.png",
+      "width": 709,
+      "height": 706,
+      "is_multi_slice": false,
+      "annotations": {
+        "25FP": [
+          {
+            "segmentation": [
+              304,
+              315,
+              346,
+              315,
+              346,
+              351,
+              304,
+              351
+            ],
+            "category_id": 1,
+            "category_name": "25FP",
+            "number": 1
+          }
+        ]
+      }
+    },
+    {
+      "file_name": "Screenshot 2024-10-11 181209_scale0.65_rot45.png",
+      "width": 733,
+      "height": 733,
+      "is_multi_slice": false,
+      "annotations": {
+        "25FP": [
+          {
+            "segmentation": [
+              310,
+              337,
+              353,
+              337,
+              353,
+              374,
+              310,
+              374
+            ],
+            "category_id": 1,
+            "category_name": "25FP",
+            "number": 1
+          }
+        ]
+      }
+    },
+    {
+      "file_name": "Screenshot 2024-10-11 181209_scale0.65_rot90.png",
+      "width": 514,
+      "height": 523,
+      "is_multi_slice": false,
+      "annotations": {
+        "25FP": [
+          {
+            "segmentation": [
+              205,
+              257,
+              243,
+              257,
+              243,
+              296,
+              205,
+              296
+            ],
+            "category_id": 1,
+            "category_name": "25FP",
+            "number": 1
+          }
+        ]
+      }
+    },
+    {
+      "file_name": "Screenshot 2024-10-11 181209_scale0.65_rot180.png",
+      "width": 523,
+      "height": 514,
+      "is_multi_slice": false,
+      "annotations": {
+        "25FP": [
+          {
+            "segmentation": [
+              260,
+              268,
+              296,
+              268,
+              296,
+              309,
+              260,
+              309
+            ],
+            "category_id": 1,
+            "category_name": "25FP",
+            "number": 1
+          }
+        ]
+      }
+    },
+    {
+      "file_name": "Screenshot 2024-10-11 181209_scale0.65_rot270.png",
+      "width": 514,
+      "height": 523,
+      "is_multi_slice": false,
+      "annotations": {
+        "25FP": [
+          {
+            "segmentation": [
+              269,
+              226,
+              309,
+              226,
+              309,
+              266,
+              269,
+              266
+            ],
+            "category_id": 1,
+            "category_name": "25FP",
+            "number": 1
+          }
+        ]
+      }
+    },
+    {
+      "file_name": "Screenshot 2024-10-11 181343_scale0.8_rot0.png",
+      "width": 671,
+      "height": 640,
+      "is_multi_slice": false,
+      "annotations": {
+        "30FP": [
+          {
+            "segmentation": [
+              303,
+              256,
+              347,
+              256,
+              347,
+              302,
+              303,
+              302
+            ],
+            "category_id": 2,
+            "category_name": "30FP",
+            "number": 1
+          }
+        ]
+      }
+    },
+    {
+      "file_name": "Screenshot 2024-10-11 181343_scale0.8_rot2.png",
+      "width": 692,
+      "height": 663,
+      "is_multi_slice": false,
+      "annotations": {
+        "30FP": [
+          {
+            "segmentation": [
+              309,
+              265,
+              360,
+              265,
+              360,
+              317,
+              309,
+              317
+            ],
+            "category_id": 2,
+            "category_name": "30FP",
+            "number": 1
+          }
+        ]
+      }
+    },
+    {
+      "file_name": "Screenshot 2024-10-11 181343_scale0.8_rot30.png",
+      "width": 901,
+      "height": 889,
+      "is_multi_slice": false,
+      "annotations": {
+        "30FP": [
+          {
+            "segmentation": [
+              394,
+              393,
+              447,
+              393,
+              447,
+              439,
+              394,
+              439
+            ],
+            "category_id": 2,
+            "category_name": "30FP",
+            "number": 1
+          }
+        ]
+      }
+    },
+    {
+      "file_name": "Screenshot 2024-10-11 181343_scale0.8_rot45.png",
+      "width": 927,
+      "height": 927,
+      "is_multi_slice": false,
+      "annotations": {
+        "30FP": [
+          {
+            "segmentation": [
+              403,
+              418,
+              454,
+              418,
+              454,
+              466,
+              403,
+              466
+            ],
+            "category_id": 2,
+            "category_name": "30FP",
+            "number": 1
+          }
+        ]
+      }
+    },
+    {
+      "file_name": "Screenshot 2024-10-11 181343_scale0.8_rot90.png",
+      "width": 640,
+      "height": 671,
+      "is_multi_slice": false,
+      "annotations": {
+        "30FP": [
+          {
+            "segmentation": [
+              253,
+              325,
+              305,
+              325,
+              305,
+              372,
+              253,
+              372
+            ],
+            "category_id": 2,
+            "category_name": "30FP",
+            "number": 1
+          }
+        ]
+      }
+    },
+    {
+      "file_name": "Screenshot 2024-10-11 181343_scale0.8_rot180.png",
+      "width": 671,
+      "height": 640,
+      "is_multi_slice": false,
+      "annotations": {
+        "30FP": [
+          {
+            "segmentation": [
+              325,
+              331,
+              371,
+              331,
+              371,
+              387,
+              325,
+              387
+            ],
+            "category_id": 2,
+            "category_name": "30FP",
+            "number": 1
+          }
+        ]
+      }
+    },
+    {
+      "file_name": "Screenshot 2024-10-11 181343_scale0.8_rot270.png",
+      "width": 640,
+      "height": 671,
+      "is_multi_slice": false,
+      "annotations": {
+        "30FP": [
+          {
+            "segmentation": [
+              340,
+              302,
+              384,
+              302,
+              384,
+              347,
+              340,
+              347
+            ],
+            "category_id": 2,
+            "category_name": "30FP",
+            "number": 1
+          }
+        ]
+      }
+    },
+    {
+      "file_name": "Screenshot 2024-10-11 181343_scale0.9_rot0.png",
+      "width": 755,
+      "height": 720,
+      "is_multi_slice": false,
+      "annotations": {
+        "30FP": [
+          {
+            "segmentation": [
+              340,
+              285,
+              392,
+              285,
+              392,
+              342,
+              340,
+              342
+            ],
+            "category_id": 2,
+            "category_name": "30FP",
+            "number": 1
+          }
+        ]
+      }
+    },
+    {
+      "file_name": "Screenshot 2024-10-11 181343_scale0.9_rot2.png",
+      "width": 779,
+      "height": 745,
+      "is_multi_slice": false,
+      "annotations": {
+        "30FP": [
+          {
+            "segmentation": [
+              348,
+              300,
+              404,
+              300,
+              404,
+              355,
+              348,
+              355
+            ],
+            "category_id": 2,
+            "category_name": "30FP",
+            "number": 1
+          }
+        ]
+      }
+    },
+    {
+      "file_name": "Screenshot 2024-10-11 181343_scale0.9_rot30.png",
+      "width": 1013,
+      "height": 1001,
+      "is_multi_slice": false,
+      "annotations": {
+        "30FP": [
+          {
+            "segmentation": [
+              444,
+              442,
+              501,
+              442,
+              501,
+              494,
+              444,
+              494
+            ],
+            "category_id": 2,
+            "category_name": "30FP",
+            "number": 1
+          }
+        ]
+      }
+    },
+    {
+      "file_name": "Screenshot 2024-10-11 181343_scale0.9_rot45.png",
+      "width": 1042,
+      "height": 1042,
+      "is_multi_slice": false,
+      "annotations": {
+        "30FP": [
+          {
+            "segmentation": [
+              454,
+              474,
+              507,
+              474,
+              507,
+              525,
+              454,
+              525
+            ],
+            "category_id": 2,
+            "category_name": "30FP",
+            "number": 1
+          }
+        ]
+      }
+    },
+    {
+      "file_name": "Screenshot 2024-10-11 181343_scale0.9_rot90.png",
+      "width": 720,
+      "height": 755,
+      "is_multi_slice": false,
+      "annotations": {
+        "30FP": [
+          {
+            "segmentation": [
+              288,
+              363,
+              340,
+              363,
+              340,
+              417,
+              288,
+              417
+            ],
+            "category_id": 2,
+            "category_name": "30FP",
+            "number": 1
+          }
+        ]
+      }
+    },
+    {
+      "file_name": "Screenshot 2024-10-11 181343_scale0.9_rot180.png",
+      "width": 755,
+      "height": 720,
+      "is_multi_slice": false,
+      "annotations": {
+        "30FP": [
+          {
+            "segmentation": [
+              361,
+              375,
+              417,
+              375,
+              417,
+              435,
+              361,
+              435
+            ],
+            "category_id": 2,
+            "category_name": "30FP",
+            "number": 1
+          }
+        ]
+      }
+    },
+    {
+      "file_name": "Screenshot 2024-10-11 181343_scale0.9_rot270.png",
+      "width": 720,
+      "height": 755,
+      "is_multi_slice": false,
+      "annotations": {
+        "30FP": [
+          {
+            "segmentation": [
+              378,
+              338,
+              433,
+              338,
+              433,
+              393,
+              378,
+              393
+            ],
+            "category_id": 2,
+            "category_name": "30FP",
+            "number": 1
+          }
+        ]
+      }
+    },
+    {
+      "file_name": "Screenshot 2024-10-11 181343_scale0.65_rot0.png",
+      "width": 545,
+      "height": 520,
+      "is_multi_slice": false,
+      "annotations": {
+        "30FP": [
+          {
+            "segmentation": [
+              246,
+              206,
+              284,
+              206,
+              284,
+              245,
+              246,
+              245
+            ],
+            "category_id": 2,
+            "category_name": "30FP",
+            "number": 1
+          }
+        ]
+      }
+    },
+    {
+      "file_name": "Screenshot 2024-10-11 181343_scale0.65_rot2.png",
+      "width": 562,
+      "height": 538,
+      "is_multi_slice": false,
+      "annotations": {
+        "30FP": [
+          {
+            "segmentation": [
+              250,
+              215,
+              290,
+              215,
+              290,
+              258,
+              250,
+              258
+            ],
+            "category_id": 2,
+            "category_name": "30FP",
+            "number": 1
+          }
+        ]
+      }
+    },
+    {
+      "file_name": "Screenshot 2024-10-11 181343_scale0.65_rot30.png",
+      "width": 731,
+      "height": 722,
+      "is_multi_slice": false,
+      "annotations": {
+        "30FP": [
+          {
+            "segmentation": [
+              319,
+              319,
+              361,
+              319,
+              361,
+              358,
+              319,
+              358
+            ],
+            "category_id": 2,
+            "category_name": "30FP",
+            "number": 1
+          }
+        ]
+      }
+    },
+    {
+      "file_name": "Screenshot 2024-10-11 181343_scale0.65_rot45.png",
+      "width": 753,
+      "height": 753,
+      "is_multi_slice": false,
+      "annotations": {
+        "30FP": [
+          {
+            "segmentation": [
+              328,
+              341,
+              366,
+              341,
+              366,
+              380,
+              328,
+              380
+            ],
+            "category_id": 2,
+            "category_name": "30FP",
+            "number": 1
+          }
+        ]
+      }
+    },
+    {
+      "file_name": "Screenshot 2024-10-11 181343_scale0.65_rot90.png",
+      "width": 520,
+      "height": 545,
+      "is_multi_slice": false,
+      "annotations": {
+        "30FP": [
+          {
+            "segmentation": [
+              205,
+              261,
+              246,
+              261,
+              246,
+              301,
+              205,
+              301
+            ],
+            "category_id": 2,
+            "category_name": "30FP",
+            "number": 1
+          }
+        ]
+      }
+    },
+    {
+      "file_name": "Screenshot 2024-10-11 181343_scale0.65_rot180.png",
+      "width": 545,
+      "height": 520,
+      "is_multi_slice": false,
+      "annotations": {
+        "30FP": [
+          {
+            "segmentation": [
+              263,
+              272,
+              302,
+              272,
+              302,
+              314,
+              263,
+              314
+            ],
+            "category_id": 2,
+            "category_name": "30FP",
+            "number": 1
+          }
+        ]
+      }
+    },
+    {
+      "file_name": "Screenshot 2024-10-11 181343_scale0.65_rot270.png",
+      "width": 520,
+      "height": 545,
+      "is_multi_slice": false,
+      "annotations": {
+        "30FP": [
+          {
+            "segmentation": [
+              272,
+              244,
+              315,
+              244,
+              315,
+              282,
+              272,
+              282
+            ],
+            "category_id": 2,
+            "category_name": "30FP",
+            "number": 1
+          }
+        ]
+      }
+    },
+    {
+      "file_name": "Screenshot 2024-10-11 181527_scale0.8_rot0.png",
+      "width": 640,
+      "height": 624,
+      "is_multi_slice": false,
+      "annotations": {
+        "35FP": [
+          {
+            "segmentation": [
+              285,
+              256,
+              332,
+              256,
+              332,
+              307,
+              285,
+              307
+            ],
+            "category_id": 3,
+            "category_name": "35FP",
+            "number": 1
+          }
+        ]
+      }
+    },
+    {
+      "file_name": "Screenshot 2024-10-11 181527_scale0.8_rot2.png",
+      "width": 661,
+      "height": 645,
+      "is_multi_slice": false,
+      "annotations": {
+        "35FP": [
+          {
+            "segmentation": [
+              296,
+              268,
+              342,
+              268,
+              342,
+              317,
+              296,
+              317
+            ],
+            "category_id": 3,
+            "category_name": "35FP",
+            "number": 1
+          }
+        ]
+      }
+    },
+    {
+      "file_name": "Screenshot 2024-10-11 181527_scale0.8_rot30.png",
+      "width": 866,
+      "height": 860,
+      "is_multi_slice": false,
+      "annotations": {
+        "35FP": [
+          {
+            "segmentation": [
+              381,
+              388,
+              432,
+              388,
+              432,
+              434,
+              381,
+              434
+            ],
+            "category_id": 3,
+            "category_name": "35FP",
+            "number": 1
+          }
+        ]
+      }
+    },
+    {
+      "file_name": "Screenshot 2024-10-11 181527_scale0.8_rot45.png",
+      "width": 893,
+      "height": 893,
+      "is_multi_slice": false,
+      "annotations": {
+        "35FP": [
+          {
+            "segmentation": [
+              392,
+              412,
+              441,
+              412,
+              441,
+              457,
+              392,
+              457
+            ],
+            "category_id": 3,
+            "category_name": "35FP",
+            "number": 1
+          }
+        ]
+      }
+    },
+    {
+      "file_name": "Screenshot 2024-10-11 181527_scale0.8_rot90.png",
+      "width": 624,
+      "height": 640,
+      "is_multi_slice": false,
+      "annotations": {
+        "35FP": [
+          {
+            "segmentation": [
+              257,
+              312,
+              307,
+              312,
+              307,
+              356,
+              257,
+              356
+            ],
+            "category_id": 3,
+            "category_name": "35FP",
+            "number": 1
+          }
+        ]
+      }
+    },
+    {
+      "file_name": "Screenshot 2024-10-11 181527_scale0.8_rot180.png",
+      "width": 640,
+      "height": 624,
+      "is_multi_slice": false,
+      "annotations": {
+        "35FP": [
+          {
+            "segmentation": [
+              310,
+              317,
+              357,
+              317,
+              357,
+              365,
+              310,
+              365
+            ],
+            "category_id": 3,
+            "category_name": "35FP",
+            "number": 1
+          }
+        ]
+      }
+    },
+    {
+      "file_name": "Screenshot 2024-10-11 181527_scale0.8_rot270.png",
+      "width": 624,
+      "height": 640,
+      "is_multi_slice": false,
+      "annotations": {
+        "35FP": [
+          {
+            "segmentation": [
+              316,
+              285,
+              366,
+              285,
+              366,
+              331,
+              316,
+              331
+            ],
+            "category_id": 3,
+            "category_name": "35FP",
+            "number": 1
+          }
+        ]
+      }
+    },
+    {
+      "file_name": "Screenshot 2024-10-11 181527_scale0.9_rot0.png",
+      "width": 720,
+      "height": 702,
+      "is_multi_slice": false,
+      "annotations": {
+        "35FP": [
+          {
+            "segmentation": [
+              320,
+              293,
+              375,
+              293,
+              375,
+              344,
+              320,
+              344
+            ],
+            "category_id": 3,
+            "category_name": "35FP",
+            "number": 1
+          }
+        ]
+      }
+    },
+    {
+      "file_name": "Screenshot 2024-10-11 181527_scale0.9_rot2.png",
+      "width": 744,
+      "height": 726,
+      "is_multi_slice": false,
+      "annotations": {
+        "35FP": [
+          {
+            "segmentation": [
+              329,
+              304,
+              385,
+              304,
+              385,
+              353,
+              329,
+              353
+            ],
+            "category_id": 3,
+            "category_name": "35FP",
+            "number": 1
+          }
+        ]
+      }
+    },
+    {
+      "file_name": "Screenshot 2024-10-11 181527_scale0.9_rot30.png",
+      "width": 974,
+      "height": 967,
+      "is_multi_slice": false,
+      "annotations": {
+        "35FP": [
+          {
+            "segmentation": [
+              429,
+              438,
+              486,
+              438,
+              486,
+              486,
+              429,
+              486
+            ],
+            "category_id": 3,
+            "category_name": "35FP",
+            "number": 1
+          }
+        ]
+      }
+    },
+    {
+      "file_name": "Screenshot 2024-10-11 181527_scale0.9_rot45.png",
+      "width": 1005,
+      "height": 1005,
+      "is_multi_slice": false,
+      "annotations": {
+        "35FP": [
+          {
+            "segmentation": [
+              441,
+              465,
+              495,
+              465,
+              495,
+              514,
+              441,
+              514
+            ],
+            "category_id": 3,
+            "category_name": "35FP",
+            "number": 1
+          }
+        ]
+      }
+    },
+    {
+      "file_name": "Screenshot 2024-10-11 181527_scale0.9_rot90.png",
+      "width": 702,
+      "height": 720,
+      "is_multi_slice": false,
+      "annotations": {
+        "35FP": [
+          {
+            "segmentation": [
+              289,
+              350,
+              345,
+              350,
+              345,
+              403,
+              289,
+              403
+            ],
+            "category_id": 3,
+            "category_name": "35FP",
+            "number": 1
+          }
+        ]
+      }
+    },
+    {
+      "file_name": "Screenshot 2024-10-11 181527_scale0.9_rot180.png",
+      "width": 720,
+      "height": 702,
+      "is_multi_slice": false,
+      "annotations": {
+        "35FP": [
+          {
+            "segmentation": [
+              348,
+              355,
+              400,
+              355,
+              400,
+              413,
+              348,
+              413
+            ],
+            "category_id": 3,
+            "category_name": "35FP",
+            "number": 1
+          }
+        ]
+      }
+    },
+    {
+      "file_name": "Screenshot 2024-10-11 181527_scale0.9_rot270.png",
+      "width": 702,
+      "height": 720,
+      "is_multi_slice": false,
+      "annotations": {
+        "35FP": [
+          {
+            "segmentation": [
+              353,
+              321,
+              411,
+              321,
+              411,
+              373,
+              353,
+              373
+            ],
+            "category_id": 3,
+            "category_name": "35FP",
+            "number": 1
+          }
+        ]
+      }
+    },
+    {
+      "file_name": "Screenshot 2024-10-11 181527_scale0.65_rot0.png",
+      "width": 520,
+      "height": 507,
+      "is_multi_slice": false,
+      "annotations": {
+        "35FP": [
+          {
+            "segmentation": [
+              232,
+              207,
+              272,
+              207,
+              272,
+              249,
+              232,
+              249
+            ],
+            "category_id": 3,
+            "category_name": "35FP",
+            "number": 1
+          }
+        ]
+      }
+    },
+    {
+      "file_name": "Screenshot 2024-10-11 181527_scale0.65_rot2.png",
+      "width": 537,
+      "height": 524,
+      "is_multi_slice": false,
+      "annotations": {
+        "35FP": [
+          {
+            "segmentation": [
+              238,
+              217,
+              277,
+              217,
+              277,
+              258,
+              238,
+              258
+            ],
+            "category_id": 3,
+            "category_name": "35FP",
+            "number": 1
+          }
+        ]
+      }
+    },
+    {
+      "file_name": "Screenshot 2024-10-11 181527_scale0.65_rot30.png",
+      "width": 703,
+      "height": 699,
+      "is_multi_slice": false,
+      "annotations": {
+        "35FP": [
+          {
+            "segmentation": [
+              308,
+              313,
+              353,
+              313,
+              353,
+              355,
+              308,
+              355
+            ],
+            "category_id": 3,
+            "category_name": "35FP",
+            "number": 1
+          }
+        ]
+      }
+    },
+    {
+      "file_name": "Screenshot 2024-10-11 181527_scale0.65_rot45.png",
+      "width": 726,
+      "height": 726,
+      "is_multi_slice": false,
+      "annotations": {
+        "35FP": [
+          {
+            "segmentation": [
+              318,
+              332,
+              360,
+              332,
+              360,
+              373,
+              318,
+              373
+            ],
+            "category_id": 3,
+            "category_name": "35FP",
+            "number": 1
+          }
+        ]
+      }
+    },
+    {
+      "file_name": "Screenshot 2024-10-11 181527_scale0.65_rot90.png",
+      "width": 507,
+      "height": 520,
+      "is_multi_slice": false,
+      "annotations": {
+        "35FP": [
+          {
+            "segmentation": [
+              210,
+              250,
+              248,
+              250,
+              248,
+              289,
+              210,
+              289
+            ],
+            "category_id": 3,
+            "category_name": "35FP",
+            "number": 1
+          }
+        ]
+      }
+    },
+    {
+      "file_name": "Screenshot 2024-10-11 181527_scale0.65_rot180.png",
+      "width": 520,
+      "height": 507,
+      "is_multi_slice": false,
+      "annotations": {
+        "35FP": [
+          {
+            "segmentation": [
+              251,
+              256,
+              290,
+              256,
+              290,
+              296,
+              251,
+              296
+            ],
+            "category_id": 3,
+            "category_name": "35FP",
+            "number": 1
+          }
+        ]
+      }
+    },
+    {
+      "file_name": "Screenshot 2024-10-11 181527_scale0.65_rot270.png",
+      "width": 507,
+      "height": 520,
+      "is_multi_slice": false,
+      "annotations": {
+        "35FP": [
+          {
+            "segmentation": [
+              257,
+              230,
+              298,
+              230,
+              298,
+              269,
+              257,
+              269
+            ],
+            "category_id": 3,
+            "category_name": "35FP",
+            "number": 1
+          }
+        ]
+      }
+    },
+    {
+      "file_name": "Screenshot 2024-10-11 180805_scale0.8_rot0.png",
+      "width": 679,
+      "height": 642,
+      "is_multi_slice": false,
+      "annotations": {
+        "38BRKR_ATT": [
+          {
+            "segmentation": [
+              277,
+              255,
+              359,
+              255,
+              359,
+              318,
+              277,
+              318
+            ],
+            "category_id": 4,
+            "category_name": "38BRKR_ATT",
+            "number": 1
+          }
+        ]
+      }
+    },
+    {
+      "file_name": "Screenshot 2024-10-11 180805_scale0.8_rot2.png",
+      "width": 700,
+      "height": 665,
+      "is_multi_slice": false,
+      "annotations": {
+        "38BRKR_ATT": [
+          {
+            "segmentation": [
+              285,
+              266,
+              374,
+              266,
+              374,
+              330,
+              285,
+              330
+            ],
+            "category_id": 4,
+            "category_name": "38BRKR_ATT",
+            "number": 1
+          }
+        ]
+      }
+    },
+    {
+      "file_name": "Screenshot 2024-10-11 180805_scale0.8_rot45.png",
+      "width": 934,
+      "height": 934,
+      "is_multi_slice": false,
+      "annotations": {
+        "38BRKR_ATT": [
+          {
+            "segmentation": [
+              370,
+              410,
+              476,
+              410,
+              476,
+              505,
+              370,
+              505
+            ],
+            "category_id": 4,
+            "category_name": "38BRKR_ATT",
+            "number": 1
+          }
+        ]
+      }
+    },
+    {
+      "file_name": "Screenshot 2024-10-11 180805_scale0.8_rot90.png",
+      "width": 642,
+      "height": 679,
+      "is_multi_slice": false,
+      "annotations": {
+        "38BRKR_ATT": [
+          {
+            "segmentation": [
+              257,
+              321,
+              320,
+              321,
+              320,
+              402,
+              257,
+              402
+            ],
+            "category_id": 4,
+            "category_name": "38BRKR_ATT",
+            "number": 1
+          }
+        ]
+      }
+    },
+    {
+      "file_name": "Screenshot 2024-10-11 180805_scale0.8_rot180.png",
+      "width": 679,
+      "height": 642,
+      "is_multi_slice": false,
+      "annotations": {
+        "38BRKR_ATT": [
+          {
+            "segmentation": [
+              320,
+              325,
+              405,
+              325,
+              405,
+              388,
+              320,
+              388
+            ],
+            "category_id": 4,
+            "category_name": "38BRKR_ATT",
+            "number": 1
+          }
+        ]
+      }
+    },
+    {
+      "file_name": "Screenshot 2024-10-11 180805_scale0.8_rot270.png",
+      "width": 642,
+      "height": 679,
+      "is_multi_slice": false,
+      "annotations": {
+        "38BRKR_ATT": [
+          {
+            "segmentation": [
+              324,
+              274,
+              386,
+              274,
+              386,
+              361,
+              324,
+              361
+            ],
+            "category_id": 4,
+            "category_name": "38BRKR_ATT",
+            "number": 1
+          }
+        ]
+      }
+    },
+    {
+      "file_name": "Screenshot 2024-10-11 180805_scale0.9_rot0.png",
+      "width": 764,
+      "height": 722,
+      "is_multi_slice": false,
+      "annotations": {
+        "38BRKR_ATT": [
+          {
+            "segmentation": [
+              311,
+              285,
+              404,
+              285,
+              404,
+              361,
+              311,
+              361
+            ],
+            "category_id": 4,
+            "category_name": "38BRKR_ATT",
+            "number": 1
+          }
+        ]
+      }
+    },
+    {
+      "file_name": "Screenshot 2024-10-11 180805_scale0.9_rot2.png",
+      "width": 788,
+      "height": 748,
+      "is_multi_slice": false,
+      "annotations": {
+        "38BRKR_ATT": [
+          {
+            "segmentation": [
+              317,
+              299,
+              416,
+              299,
+              416,
+              372,
+              317,
+              372
+            ],
+            "category_id": 4,
+            "category_name": "38BRKR_ATT",
+            "number": 1
+          }
+        ]
+      }
+    },
+    {
+      "file_name": "Screenshot 2024-10-11 180805_scale0.9_rot30.png",
+      "width": 1022,
+      "height": 1007,
+      "is_multi_slice": false,
+      "annotations": {
+        "38BRKR_ATT": [
+          {
+            "segmentation": [
+              409,
+              438,
+              525,
+              438,
+              525,
+              534,
+              409,
+              534
+            ],
+            "category_id": 4,
+            "category_name": "38BRKR_ATT",
+            "number": 1
+          }
+        ]
+      }
+    },
+    {
+      "file_name": "Screenshot 2024-10-11 180805_scale0.9_rot45.png",
+      "width": 1050,
+      "height": 1050,
+      "is_multi_slice": false,
+      "annotations": {
+        "38BRKR_ATT": [
+          {
+            "segmentation": [
+              417,
+              468,
+              536,
+              468,
+              536,
+              568,
+              417,
+              568
+            ],
+            "category_id": 4,
+            "category_name": "38BRKR_ATT",
+            "number": 1
+          }
+        ]
+      }
+    },
+    {
+      "file_name": "Screenshot 2024-10-11 180805_scale0.9_rot90.png",
+      "width": 722,
+      "height": 764,
+      "is_multi_slice": false,
+      "annotations": {
+        "38BRKR_ATT": [
+          {
+            "segmentation": [
+              284,
+              362,
+              362,
+              362,
+              362,
+              455,
+              284,
+              455
+            ],
+            "category_id": 4,
+            "category_name": "38BRKR_ATT",
+            "number": 1
+          }
+        ]
+      }
+    },
+    {
+      "file_name": "Screenshot 2024-10-11 180805_scale0.9_rot180.png",
+      "width": 764,
+      "height": 722,
+      "is_multi_slice": false,
+      "annotations": {
+        "38BRKR_ATT": [
+          {
+            "segmentation": [
+              360,
+              360,
+              458,
+              360,
+              458,
+              437,
+              360,
+              437
+            ],
+            "category_id": 4,
+            "category_name": "38BRKR_ATT",
+            "number": 1
+          }
+        ]
+      }
+    },
+    {
+      "file_name": "Screenshot 2024-10-11 180805_scale0.9_rot270.png",
+      "width": 722,
+      "height": 764,
+      "is_multi_slice": false,
+      "annotations": {
+        "38BRKR_ATT": [
+          {
+            "segmentation": [
+              362,
+              309,
+              443,
+              309,
+              443,
+              403,
+              362,
+              403
+            ],
+            "category_id": 4,
+            "category_name": "38BRKR_ATT",
+            "number": 1
+          }
+        ]
+      }
+    },
+    {
+      "file_name": "Screenshot 2024-10-11 180805_scale0.65_rot0.png",
+      "width": 551,
+      "height": 521,
+      "is_multi_slice": false,
+      "annotations": {
+        "38BRKR_ATT": [
+          {
+            "segmentation": [
+              225,
+              205,
+              293,
+              205,
+              293,
+              261,
+              225,
+              261
+            ],
+            "category_id": 4,
+            "category_name": "38BRKR_ATT",
+            "number": 1
+          }
+        ]
+      }
+    },
+    {
+      "file_name": "Screenshot 2024-10-11 180805_scale0.65_rot2.png",
+      "width": 568,
+      "height": 539,
+      "is_multi_slice": false,
+      "annotations": {
+        "38BRKR_ATT": [
+          {
+            "segmentation": [
+              230,
+              216,
+              302,
+              216,
+              302,
+              270,
+              230,
+              270
+            ],
+            "category_id": 4,
+            "category_name": "38BRKR_ATT",
+            "number": 1
+          }
+        ]
+      }
+    },
+    {
+      "file_name": "Screenshot 2024-10-11 180805_scale0.65_rot30.png",
+      "width": 737,
+      "height": 726,
+      "is_multi_slice": false,
+      "annotations": {
+        "38BRKR_ATT": [
+          {
+            "segmentation": [
+              297,
+              313,
+              380,
+              313,
+              380,
+              383,
+              297,
+              383
+            ],
+            "category_id": 4,
+            "category_name": "38BRKR_ATT",
+            "number": 1
+          }
+        ]
+      }
+    },
+    {
+      "file_name": "Screenshot 2024-10-11 180805_scale0.65_rot45.png",
+      "width": 758,
+      "height": 758,
+      "is_multi_slice": false,
+      "annotations": {
+        "38BRKR_ATT": [
+          {
+            "segmentation": [
+              303,
+              332,
+              386,
+              332,
+              386,
+              410,
+              303,
+              410
+            ],
+            "category_id": 4,
+            "category_name": "38BRKR_ATT",
+            "number": 1
+          }
+        ]
+      }
+    },
+    {
+      "file_name": "Screenshot 2024-10-11 180805_scale0.65_rot90.png",
+      "width": 521,
+      "height": 551,
+      "is_multi_slice": false,
+      "annotations": {
+        "38BRKR_ATT": [
+          {
+            "segmentation": [
+              208,
+              262,
+              259,
+              262,
+              259,
+              327,
+              208,
+              327
+            ],
+            "category_id": 4,
+            "category_name": "38BRKR_ATT",
+            "number": 1
+          }
+        ]
+      }
+    },
+    {
+      "file_name": "Screenshot 2024-10-11 180805_scale0.65_rot180.png",
+      "width": 551,
+      "height": 521,
+      "is_multi_slice": false,
+      "annotations": {
+        "38BRKR_ATT": [
+          {
+            "segmentation": [
+              265,
+              258,
+              325,
+              258,
+              325,
+              318,
+              265,
+              318
+            ],
+            "category_id": 4,
+            "category_name": "38BRKR_ATT",
+            "number": 1
+          }
+        ]
+      }
+    },
+    {
+      "file_name": "Screenshot 2024-10-11 180805_scale0.65_rot270.png",
+      "width": 521,
+      "height": 551,
+      "is_multi_slice": false,
+      "annotations": {
+        "38BRKR_ATT": [
+          {
+            "segmentation": [
+              261,
+              224,
+              315,
+              224,
+              315,
+              293,
+              261,
+              293
+            ],
+            "category_id": 4,
+            "category_name": "38BRKR_ATT",
+            "number": 1
+          }
+        ]
+      }
+    },
+    {
+      "file_name": "Screenshot 2024-10-11 180808_scale0.8_rot0.png",
+      "width": 632,
+      "height": 635,
+      "is_multi_slice": false,
+      "annotations": {
+        "38BRKR_ATT": [
+          {
+            "segmentation": [
+              241,
+              278,
+              303,
+              278,
+              303,
+              355,
+              241,
+              355
+            ],
+            "category_id": 4,
+            "category_name": "38BRKR_ATT",
+            "number": 1
+          }
+        ]
+      }
+    },
+    {
+      "file_name": "Screenshot 2024-10-11 180808_scale0.8_rot2.png",
+      "width": 653,
+      "height": 656,
+      "is_multi_slice": false,
+      "annotations": {
+        "38BRKR_ATT": [
+          {
+            "segmentation": [
+              246,
+              288,
+              316,
+              288,
+              316,
+              370,
+              246,
+              370
+            ],
+            "category_id": 4,
+            "category_name": "38BRKR_ATT",
+            "number": 1
+          }
+        ]
+      }
+    },
+    {
+      "file_name": "Screenshot 2024-10-11 180808_scale0.8_rot30.png",
+      "width": 864,
+      "height": 865,
+      "is_multi_slice": false,
+      "annotations": {
+        "38BRKR_ATT": [
+          {
+            "segmentation": [
+              340,
+              409,
+              440,
+              409,
+              440,
+              501,
+              340,
+              501
+            ],
+            "category_id": 4,
+            "category_name": "38BRKR_ATT",
+            "number": 1
+          }
+        ]
+      }
+    },
+    {
+      "file_name": "Screenshot 2024-10-11 180808_scale0.8_rot45.png",
+      "width": 895,
+      "height": 895,
+      "is_multi_slice": false,
+      "annotations": {
+        "38BRKR_ATT": [
+          {
+            "segmentation": [
+              357,
+              431,
+              462,
+              431,
+              462,
+              528,
+              357,
+              528
+            ],
+            "category_id": 4,
+            "category_name": "38BRKR_ATT",
+            "number": 1
+          }
+        ]
+      }
+    },
+    {
+      "file_name": "Screenshot 2024-10-11 180808_scale0.8_rot90.png",
+      "width": 635,
+      "height": 632,
+      "is_multi_slice": false,
+      "annotations": {
+        "38BRKR_ATT": [
+          {
+            "segmentation": [
+              274,
+              329,
+              358,
+              329,
+              358,
+              394,
+              274,
+              394
+            ],
+            "category_id": 4,
+            "category_name": "38BRKR_ATT",
+            "number": 1
+          }
+        ]
+      }
+    },
+    {
+      "file_name": "Screenshot 2024-10-11 180808_scale0.8_rot180.png",
+      "width": 632,
+      "height": 635,
+      "is_multi_slice": false,
+      "annotations": {
+        "38BRKR_ATT": [
+          {
+            "segmentation": [
+              329,
+              279,
+              394,
+              279,
+              394,
+              359,
+              329,
+              359
+            ],
+            "category_id": 4,
+            "category_name": "38BRKR_ATT",
+            "number": 1
+          }
+        ]
+      }
+    },
+    {
+      "file_name": "Screenshot 2024-10-11 180808_scale0.8_rot270.png",
+      "width": 635,
+      "height": 632,
+      "is_multi_slice": false,
+      "annotations": {
+        "38BRKR_ATT": [
+          {
+            "segmentation": [
+              278,
+              239,
+              361,
+              239,
+              361,
+              304,
+              278,
+              304
+            ],
+            "category_id": 4,
+            "category_name": "38BRKR_ATT",
+            "number": 1
+          }
+        ]
+      }
+    },
+    {
+      "file_name": "Screenshot 2024-10-11 180808_scale0.9_rot0.png",
+      "width": 711,
+      "height": 714,
+      "is_multi_slice": false,
+      "annotations": {
+        "38BRKR_ATT": [
+          {
+            "segmentation": [
+              270,
+              307,
+              345,
+              307,
+              345,
+              404,
+              270,
+              404
+            ],
+            "category_id": 4,
+            "category_name": "38BRKR_ATT",
+            "number": 1
+          }
+        ]
+      }
+    },
+    {
+      "file_name": "Screenshot 2024-10-11 180808_scale0.9_rot2.png",
+      "width": 735,
+      "height": 738,
+      "is_multi_slice": false,
+      "annotations": {
+        "38BRKR_ATT": [
+          {
+            "segmentation": [
+              280,
+              321,
+              358,
+              321,
+              358,
+              419,
+              280,
+              419
+            ],
+            "category_id": 4,
+            "category_name": "38BRKR_ATT",
+            "number": 1
+          }
+        ]
+      }
+    },
+    {
+      "file_name": "Screenshot 2024-10-11 180808_scale0.9_rot30.png",
+      "width": 972,
+      "height": 973,
+      "is_multi_slice": false,
+      "annotations": {
+        "38BRKR_ATT": [
+          {
+            "segmentation": [
+              387,
+              464,
+              491,
+              464,
+              491,
+              561,
+              387,
+              561
+            ],
+            "category_id": 4,
+            "category_name": "38BRKR_ATT",
+            "number": 1
+          }
+        ]
+      }
+    },
+    {
+      "file_name": "Screenshot 2024-10-11 180808_scale0.9_rot45.png",
+      "width": 1007,
+      "height": 1007,
+      "is_multi_slice": false,
+      "annotations": {
+        "38BRKR_ATT": [
+          {
+            "segmentation": [
+              410,
+              490,
+              517,
+              490,
+              517,
+              590,
+              410,
+              590
+            ],
+            "category_id": 4,
+            "category_name": "38BRKR_ATT",
+            "number": 1
+          }
+        ]
+      }
+    },
+    {
+      "file_name": "Screenshot 2024-10-11 180808_scale0.9_rot90.png",
+      "width": 714,
+      "height": 711,
+      "is_multi_slice": false,
+      "annotations": {
+        "38BRKR_ATT": [
+          {
+            "segmentation": [
+              310,
+              371,
+              402,
+              371,
+              402,
+              444,
+              310,
+              444
+            ],
+            "category_id": 4,
+            "category_name": "38BRKR_ATT",
+            "number": 1
+          }
+        ]
+      }
+    },
+    {
+      "file_name": "Screenshot 2024-10-11 180808_scale0.9_rot180.png",
+      "width": 711,
+      "height": 714,
+      "is_multi_slice": false,
+      "annotations": {
+        "38BRKR_ATT": [
+          {
+            "segmentation": [
+              370,
+              311,
+              445,
+              311,
+              445,
+              405,
+              370,
+              405
+            ],
+            "category_id": 4,
+            "category_name": "38BRKR_ATT",
+            "number": 1
+          }
+        ]
+      }
+    },
+    {
+      "file_name": "Screenshot 2024-10-11 180808_scale0.9_rot270.png",
+      "width": 714,
+      "height": 711,
+      "is_multi_slice": false,
+      "annotations": {
+        "38BRKR_ATT": [
+          {
+            "segmentation": [
+              318,
+              267,
+              408,
+              267,
+              408,
+              343,
+              318,
+              343
+            ],
+            "category_id": 4,
+            "category_name": "38BRKR_ATT",
+            "number": 1
+          }
+        ]
+      }
+    },
+    {
+      "file_name": "Screenshot 2024-10-11 180808_scale0.65_rot0.png",
+      "width": 513,
+      "height": 516,
+      "is_multi_slice": false,
+      "annotations": {
+        "38BRKR_ATT": [
+          {
+            "segmentation": [
+              195,
+              221,
+              248,
+              221,
+              248,
+              291,
+              195,
+              291
+            ],
+            "category_id": 4,
+            "category_name": "38BRKR_ATT",
+            "number": 1
+          }
+        ]
+      }
+    },
+    {
+      "file_name": "Screenshot 2024-10-11 180808_scale0.65_rot2.png",
+      "width": 530,
+      "height": 533,
+      "is_multi_slice": false,
+      "annotations": {
+        "38BRKR_ATT": [
+          {
+            "segmentation": [
+              201,
+              232,
+              257,
+              232,
+              257,
+              300,
+              201,
+              300
+            ],
+            "category_id": 4,
+            "category_name": "38BRKR_ATT",
+            "number": 1
+          }
+        ]
+      }
+    },
+    {
+      "file_name": "Screenshot 2024-10-11 180808_scale0.65_rot30.png",
+      "width": 702,
+      "height": 703,
+      "is_multi_slice": false,
+      "annotations": {
+        "38BRKR_ATT": [
+          {
+            "segmentation": [
+              279,
+              334,
+              352,
+              334,
+              352,
+              406,
+              279,
+              406
+            ],
+            "category_id": 4,
+            "category_name": "38BRKR_ATT",
+            "number": 1
+          }
+        ]
+      }
+    },
+    {
+      "file_name": "Screenshot 2024-10-11 180808_scale0.65_rot45.png",
+      "width": 727,
+      "height": 727,
+      "is_multi_slice": false,
+      "annotations": {
+        "38BRKR_ATT": [
+          {
+            "segmentation": [
+              293,
+              351,
+              375,
+              351,
+              375,
+              428,
+              293,
+              428
+            ],
+            "category_id": 4,
+            "category_name": "38BRKR_ATT",
+            "number": 1
+          }
+        ]
+      }
+    },
+    {
+      "file_name": "Screenshot 2024-10-11 180808_scale0.65_rot90.png",
+      "width": 516,
+      "height": 513,
+      "is_multi_slice": false,
+      "annotations": {
+        "38BRKR_ATT": [
+          {
+            "segmentation": [
+              222,
+              266,
+              291,
+              266,
+              291,
+              322,
+              222,
+              322
+            ],
+            "category_id": 4,
+            "category_name": "38BRKR_ATT",
+            "number": 1
+          }
+        ]
+      }
+    },
+    {
+      "file_name": "Screenshot 2024-10-11 180808_scale0.65_rot180.png",
+      "width": 513,
+      "height": 516,
+      "is_multi_slice": false,
+      "annotations": {
+        "38BRKR_ATT": [
+          {
+            "segmentation": [
+              268,
+              227,
+              318,
+              227,
+              318,
+              294,
+              268,
+              294
+            ],
+            "category_id": 4,
+            "category_name": "38BRKR_ATT",
+            "number": 1
+          }
+        ]
+      }
+    },
+    {
+      "file_name": "Screenshot 2024-10-11 180808_scale0.65_rot270.png",
+      "width": 516,
+      "height": 513,
+      "is_multi_slice": false,
+      "annotations": {
+        "38BRKR_ATT": [
+          {
+            "segmentation": [
+              227,
+              193,
+              295,
+              193,
+              295,
+              249,
+              227,
+              249
+            ],
+            "category_id": 4,
+            "category_name": "38BRKR_ATT",
+            "number": 1
+          }
+        ]
+      }
+    },
+    {
+      "file_name": "Screenshot 2024-10-11 181650_scale0.8_rot0.png",
+      "width": 658,
+      "height": 631,
+      "is_multi_slice": false,
+      "annotations": {
+        "40FP": [
+          {
+            "segmentation": [
+              276,
+              240,
+              343,
+              240,
+              343,
+              307,
+              276,
+              307
+            ],
+            "category_id": 5,
+            "category_name": "40FP",
+            "number": 1
+          }
+        ]
+      }
+    },
+    {
+      "file_name": "Screenshot 2024-10-11 181650_scale0.8_rot2.png",
+      "width": 679,
+      "height": 653,
+      "is_multi_slice": false,
+      "annotations": {
+        "40FP": [
+          {
+            "segmentation": [
+              282,
+              252,
+              351,
+              252,
+              351,
+              320,
+              282,
+              320
+            ],
+            "category_id": 5,
+            "category_name": "40FP",
+            "number": 1
+          }
+        ]
+      }
+    },
+    {
+      "file_name": "Screenshot 2024-10-11 181650_scale0.8_rot30.png",
+      "width": 885,
+      "height": 875,
+      "is_multi_slice": false,
+      "annotations": {
+        "40FP": [
+          {
+            "segmentation": [
+              368,
+              379,
+              438,
+              379,
+              438,
+              445,
+              368,
+              445
+            ],
+            "category_id": 5,
+            "category_name": "40FP",
+            "number": 1
+          }
+        ]
+      }
+    },
+    {
+      "file_name": "Screenshot 2024-10-11 181650_scale0.8_rot45.png",
+      "width": 911,
+      "height": 911,
+      "is_multi_slice": false,
+      "annotations": {
+        "40FP": [
+          {
+            "segmentation": [
+              373,
+              407,
+              447,
+              407,
+              447,
+              476,
+              373,
+              476
+            ],
+            "category_id": 5,
+            "category_name": "40FP",
+            "number": 1
+          }
+        ]
+      }
+    },
+    {
+      "file_name": "Screenshot 2024-10-11 181650_scale0.8_rot90.png",
+      "width": 631,
+      "height": 658,
+      "is_multi_slice": false,
+      "annotations": {
+        "40FP": [
+          {
+            "segmentation": [
+              236,
+              316,
+              307,
+              316,
+              307,
+              385,
+              236,
+              385
+            ],
+            "category_id": 5,
+            "category_name": "40FP",
+            "number": 1
+          }
+        ]
+      }
+    },
+    {
+      "file_name": "Screenshot 2024-10-11 181650_scale0.8_rot180.png",
+      "width": 658,
+      "height": 631,
+      "is_multi_slice": false,
+      "annotations": {
+        "40FP": [
+          {
+            "segmentation": [
+              312,
+              322,
+              385,
+              322,
+              385,
+              393,
+              312,
+              393
+            ],
+            "category_id": 5,
+            "category_name": "40FP",
+            "number": 1
+          }
+        ]
+      }
+    },
+    {
+      "file_name": "Screenshot 2024-10-11 181650_scale0.8_rot270.png",
+      "width": 631,
+      "height": 658,
+      "is_multi_slice": false,
+      "annotations": {
+        "40FP": [
+          {
+            "segmentation": [
+              319,
+              271,
+              395,
+              271,
+              395,
+              343,
+              319,
+              343
+            ],
+            "category_id": 5,
+            "category_name": "40FP",
+            "number": 1
+          }
+        ]
+      }
+    },
+    {
+      "file_name": "Screenshot 2024-10-11 181650_scale0.9_rot0.png",
+      "width": 740,
+      "height": 710,
+      "is_multi_slice": false,
+      "annotations": {
+        "40FP": [
+          {
+            "segmentation": [
+              305,
+              271,
+              386,
+              271,
+              386,
+              346,
+              305,
+              346
+            ],
+            "category_id": 5,
+            "category_name": "40FP",
+            "number": 1
+          }
+        ]
+      }
+    },
+    {
+      "file_name": "Screenshot 2024-10-11 181650_scale0.9_rot2.png",
+      "width": 764,
+      "height": 735,
+      "is_multi_slice": false,
+      "annotations": {
+        "40FP": [
+          {
+            "segmentation": [
+              317,
+              286,
+              395,
+              286,
+              395,
+              360,
+              317,
+              360
+            ],
+            "category_id": 5,
+            "category_name": "40FP",
+            "number": 1
+          }
+        ]
+      }
+    },
+    {
+      "file_name": "Screenshot 2024-10-11 181650_scale0.9_rot30.png",
+      "width": 995,
+      "height": 984,
+      "is_multi_slice": false,
+      "annotations": {
+        "40FP": [
+          {
+            "segmentation": [
+              412,
+              427,
+              497,
+              427,
+              497,
+              502,
+              412,
+              502
+            ],
+            "category_id": 5,
+            "category_name": "40FP",
+            "number": 1
+          }
+        ]
+      }
+    },
+    {
+      "file_name": "Screenshot 2024-10-11 181650_scale0.9_rot45.png",
+      "width": 1025,
+      "height": 1025,
+      "is_multi_slice": false,
+      "annotations": {
+        "40FP": [
+          {
+            "segmentation": [
+              424,
+              461,
+              501,
+              461,
+              501,
+              533,
+              424,
+              533
+            ],
+            "category_id": 5,
+            "category_name": "40FP",
+            "number": 1
+          }
+        ]
+      }
+    },
+    {
+      "file_name": "Screenshot 2024-10-11 181650_scale0.9_rot90.png",
+      "width": 710,
+      "height": 740,
+      "is_multi_slice": false,
+      "annotations": {
+        "40FP": [
+          {
+            "segmentation": [
+              267,
+              358,
+              348,
+              358,
+              348,
+              431,
+              267,
+              431
+            ],
+            "category_id": 5,
+            "category_name": "40FP",
+            "number": 1
+          }
+        ]
+      }
+    },
+    {
+      "file_name": "Screenshot 2024-10-11 181650_scale0.9_rot180.png",
+      "width": 740,
+      "height": 710,
+      "is_multi_slice": false,
+      "annotations": {
+        "40FP": [
+          {
+            "segmentation": [
+              355,
+              365,
+              432,
+              365,
+              432,
+              442,
+              355,
+              442
+            ],
+            "category_id": 5,
+            "category_name": "40FP",
+            "number": 1
+          }
+        ]
+      }
+    },
+    {
+      "file_name": "Screenshot 2024-10-11 181650_scale0.9_rot270.png",
+      "width": 710,
+      "height": 740,
+      "is_multi_slice": false,
+      "annotations": {
+        "40FP": [
+          {
+            "segmentation": [
+              362,
+              310,
+              441,
+              310,
+              441,
+              386,
+              362,
+              386
+            ],
+            "category_id": 5,
+            "category_name": "40FP",
+            "number": 1
+          }
+        ]
+      }
+    },
+    {
+      "file_name": "Screenshot 2024-10-11 181650_scale0.65_rot0.png",
+      "width": 534,
+      "height": 512,
+      "is_multi_slice": false,
+      "annotations": {
+        "40FP": [
+          {
+            "segmentation": [
+              220,
+              194,
+              279,
+              194,
+              279,
+              251,
+              220,
+              251
+            ],
+            "category_id": 5,
+            "category_name": "40FP",
+            "number": 1
+          }
+        ]
+      }
+    },
+    {
+      "file_name": "Screenshot 2024-10-11 181650_scale0.65_rot2.png",
+      "width": 551,
+      "height": 530,
+      "is_multi_slice": false,
+      "annotations": {
+        "40FP": [
+          {
+            "segmentation": [
+              226,
+              206,
+              286,
+              206,
+              286,
+              257,
+              226,
+              257
+            ],
+            "category_id": 5,
+            "category_name": "40FP",
+            "number": 1
+          }
+        ]
+      }
+    },
+    {
+      "file_name": "Screenshot 2024-10-11 181650_scale0.65_rot30.png",
+      "width": 718,
+      "height": 710,
+      "is_multi_slice": false,
+      "annotations": {
+        "40FP": [
+          {
+            "segmentation": [
+              294,
+              308,
+              359,
+              308,
+              359,
+              363,
+              294,
+              363
+            ],
+            "category_id": 5,
+            "category_name": "40FP",
+            "number": 1
+          }
+        ]
+      }
+    },
+    {
+      "file_name": "Screenshot 2024-10-11 181650_scale0.65_rot45.png",
+      "width": 739,
+      "height": 739,
+      "is_multi_slice": false,
+      "annotations": {
+        "40FP": [
+          {
+            "segmentation": [
+              306,
+              331,
+              364,
+              331,
+              364,
+              385,
+              306,
+              385
+            ],
+            "category_id": 5,
+            "category_name": "40FP",
+            "number": 1
+          }
+        ]
+      }
+    },
+    {
+      "file_name": "Screenshot 2024-10-11 181650_scale0.65_rot90.png",
+      "width": 512,
+      "height": 534,
+      "is_multi_slice": false,
+      "annotations": {
+        "40FP": [
+          {
+            "segmentation": [
+              194,
+              256,
+              249,
+              256,
+              249,
+              313,
+              194,
+              313
+            ],
+            "category_id": 5,
+            "category_name": "40FP",
+            "number": 1
+          }
+        ]
+      }
+    },
+    {
+      "file_name": "Screenshot 2024-10-11 181650_scale0.65_rot180.png",
+      "width": 534,
+      "height": 512,
+      "is_multi_slice": false,
+      "annotations": {
+        "40FP": [
+          {
+            "segmentation": [
+              256,
+              263,
+              314,
+              263,
+              314,
+              315,
+              256,
+              315
+            ],
+            "category_id": 5,
+            "category_name": "40FP",
+            "number": 1
+          }
+        ]
+      }
+    },
+    {
+      "file_name": "Screenshot 2024-10-11 181650_scale0.65_rot270.png",
+      "width": 512,
+      "height": 534,
+      "is_multi_slice": false,
+      "annotations": {
+        "40FP": [
+          {
+            "segmentation": [
+              263,
+              223,
+              319,
+              223,
+              319,
+              278,
+              263,
+              278
+            ],
+            "category_id": 5,
+            "category_name": "40FP",
+            "number": 1
+          }
+        ]
+      }
+    },
+    {
+      "file_name": "Screenshot 2024-10-11 181823_scale0.8_rot0.png",
+      "width": 675,
+      "height": 652,
+      "is_multi_slice": false,
+      "annotations": {
+        "45FP": [
+          {
+            "segmentation": [
+              297,
+              255,
+              371,
+              255,
+              371,
+              326,
+              297,
+              326
+            ],
+            "category_id": 6,
+            "category_name": "45FP",
+            "number": 1
+          }
+        ]
+      }
+    },
+    {
+      "file_name": "Screenshot 2024-10-11 181823_scale0.8_rot2.png",
+      "width": 697,
+      "height": 675,
+      "is_multi_slice": false,
+      "annotations": {
+        "45FP": [
+          {
+            "segmentation": [
+              309,
+              266,
+              379,
+              266,
+              379,
+              340,
+              309,
+              340
+            ],
+            "category_id": 6,
+            "category_name": "45FP",
+            "number": 1
+          }
+        ]
+      }
+    },
+    {
+      "file_name": "Screenshot 2024-10-11 181823_scale0.8_rot30.png",
+      "width": 910,
+      "height": 902,
+      "is_multi_slice": false,
+      "annotations": {
+        "45FP": [
+          {
+            "segmentation": [
+              397,
+              386,
+              472,
+              386,
+              472,
+              457,
+              397,
+              457
+            ],
+            "category_id": 6,
+            "category_name": "45FP",
+            "number": 1
+          }
+        ]
+      }
+    },
+    {
+      "file_name": "Screenshot 2024-10-11 181823_scale0.8_rot45.png",
+      "width": 938,
+      "height": 938,
+      "is_multi_slice": false,
+      "annotations": {
+        "45FP": [
+          {
+            "segmentation": [
+              404,
+              409,
+              476,
+              409,
+              476,
+              481,
+              404,
+              481
+            ],
+            "category_id": 6,
+            "category_name": "45FP",
+            "number": 1
+          }
+        ]
+      }
+    },
+    {
+      "file_name": "Screenshot 2024-10-11 181823_scale0.8_rot90.png",
+      "width": 652,
+      "height": 675,
+      "is_multi_slice": false,
+      "annotations": {
+        "45FP": [
+          {
+            "segmentation": [
+              253,
+              304,
+              328,
+              304,
+              328,
+              376,
+              253,
+              376
+            ],
+            "category_id": 6,
+            "category_name": "45FP",
+            "number": 1
+          }
+        ]
+      }
+    },
+    {
+      "file_name": "Screenshot 2024-10-11 181823_scale0.8_rot180.png",
+      "width": 675,
+      "height": 652,
+      "is_multi_slice": false,
+      "annotations": {
+        "45FP": [
+          {
+            "segmentation": [
+              308,
+              326,
+              378,
+              326,
+              378,
+              400,
+              308,
+              400
+            ],
+            "category_id": 6,
+            "category_name": "45FP",
+            "number": 1
+          }
+        ]
+      }
+    },
+    {
+      "file_name": "Screenshot 2024-10-11 181823_scale0.8_rot270.png",
+      "width": 652,
+      "height": 675,
+      "is_multi_slice": false,
+      "annotations": {
+        "45FP": [
+          {
+            "segmentation": [
+              325,
+              296,
+              399,
+              296,
+              399,
+              370,
+              325,
+              370
+            ],
+            "category_id": 6,
+            "category_name": "45FP",
+            "number": 1
+          }
+        ]
+      }
+    },
+    {
+      "file_name": "Screenshot 2024-10-11 181823_scale0.9_rot0.png",
+      "width": 759,
+      "height": 734,
+      "is_multi_slice": false,
+      "annotations": {
+        "45FP": [
+          {
+            "segmentation": [
+              335,
+              289,
+              415,
+              289,
+              415,
+              367,
+              335,
+              367
+            ],
+            "category_id": 6,
+            "category_name": "45FP",
+            "number": 1
+          }
+        ]
+      }
+    },
+    {
+      "file_name": "Screenshot 2024-10-11 181823_scale0.9_rot2.png",
+      "width": 784,
+      "height": 760,
+      "is_multi_slice": false,
+      "annotations": {
+        "45FP": [
+          {
+            "segmentation": [
+              347,
+              300,
+              426,
+              300,
+              426,
+              378,
+              347,
+              378
+            ],
+            "category_id": 6,
+            "category_name": "45FP",
+            "number": 1
+          }
+        ]
+      }
+    },
+    {
+      "file_name": "Screenshot 2024-10-11 181823_scale0.9_rot30.png",
+      "width": 1024,
+      "height": 1015,
+      "is_multi_slice": false,
+      "annotations": {
+        "45FP": [
+          {
+            "segmentation": [
+              443,
+              435,
+              531,
+              435,
+              531,
+              514,
+              443,
+              514
+            ],
+            "category_id": 6,
+            "category_name": "45FP",
+            "number": 1
+          }
+        ]
+      }
+    },
+    {
+      "file_name": "Screenshot 2024-10-11 181823_scale0.9_rot45.png",
+      "width": 1055,
+      "height": 1055,
+      "is_multi_slice": false,
+      "annotations": {
+        "45FP": [
+          {
+            "segmentation": [
+              453,
+              463,
+              539,
+              463,
+              539,
+              543,
+              453,
+              543
+            ],
+            "category_id": 6,
+            "category_name": "45FP",
+            "number": 1
+          }
+        ]
+      }
+    },
+    {
+      "file_name": "Screenshot 2024-10-11 181823_scale0.9_rot90.png",
+      "width": 734,
+      "height": 759,
+      "is_multi_slice": false,
+      "annotations": {
+        "45FP": [
+          {
+            "segmentation": [
+              287,
+              343,
+              366,
+              343,
+              366,
+              422,
+              287,
+              422
+            ],
+            "category_id": 6,
+            "category_name": "45FP",
+            "number": 1
+          }
+        ]
+      }
+    },
+    {
+      "file_name": "Screenshot 2024-10-11 181823_scale0.9_rot180.png",
+      "width": 759,
+      "height": 734,
+      "is_multi_slice": false,
+      "annotations": {
+        "45FP": [
+          {
+            "segmentation": [
+              340,
+              368,
+              424,
+              368,
+              424,
+              446,
+              340,
+              446
+            ],
+            "category_id": 6,
+            "category_name": "45FP",
+            "number": 1
+          }
+        ]
+      }
+    },
+    {
+      "file_name": "Screenshot 2024-10-11 181823_scale0.9_rot270.png",
+      "width": 734,
+      "height": 759,
+      "is_multi_slice": false,
+      "annotations": {
+        "45FP": [
+          {
+            "segmentation": [
+              369,
+              335,
+              448,
+              335,
+              448,
+              416,
+              369,
+              416
+            ],
+            "category_id": 6,
+            "category_name": "45FP",
+            "number": 1
+          }
+        ]
+      }
+    },
+    {
+      "file_name": "Screenshot 2024-10-11 181823_scale0.65_rot0.png",
+      "width": 548,
+      "height": 530,
+      "is_multi_slice": false,
+      "annotations": {
+        "45FP": [
+          {
+            "segmentation": [
+              242,
+              205,
+              300,
+              205,
+              300,
+              262,
+              242,
+              262
+            ],
+            "category_id": 6,
+            "category_name": "45FP",
+            "number": 1
+          }
+        ]
+      }
+    },
+    {
+      "file_name": "Screenshot 2024-10-11 181823_scale0.65_rot2.png",
+      "width": 566,
+      "height": 548,
+      "is_multi_slice": false,
+      "annotations": {
+        "45FP": [
+          {
+            "segmentation": [
+              250,
+              214,
+              309,
+              214,
+              309,
+              274,
+              250,
+              274
+            ],
+            "category_id": 6,
+            "category_name": "45FP",
+            "number": 1
+          }
+        ]
+      }
+    },
+    {
+      "file_name": "Screenshot 2024-10-11 181823_scale0.65_rot30.png",
+      "width": 739,
+      "height": 732,
+      "is_multi_slice": false,
+      "annotations": {
+        "45FP": [
+          {
+            "segmentation": [
+              314,
+              315,
+              384,
+              315,
+              384,
+              371,
+              314,
+              371
+            ],
+            "category_id": 6,
+            "category_name": "45FP",
+            "number": 1
+          }
+        ]
+      }
+    },
+    {
+      "file_name": "Screenshot 2024-10-11 181823_scale0.65_rot45.png",
+      "width": 762,
+      "height": 762,
+      "is_multi_slice": false,
+      "annotations": {
+        "45FP": [
+          {
+            "segmentation": [
+              326,
+              334,
+              390,
+              334,
+              390,
+              392,
+              326,
+              392
+            ],
+            "category_id": 6,
+            "category_name": "45FP",
+            "number": 1
+          }
+        ]
+      }
+    },
+    {
+      "file_name": "Screenshot 2024-10-11 181823_scale0.65_rot90.png",
+      "width": 530,
+      "height": 548,
+      "is_multi_slice": false,
+      "annotations": {
+        "45FP": [
+          {
+            "segmentation": [
+              206,
+              246,
+              263,
+              246,
+              263,
+              306,
+              206,
+              306
+            ],
+            "category_id": 6,
+            "category_name": "45FP",
+            "number": 1
+          }
+        ]
+      }
+    },
+    {
+      "file_name": "Screenshot 2024-10-11 181823_scale0.65_rot180.png",
+      "width": 548,
+      "height": 530,
+      "is_multi_slice": false,
+      "annotations": {
+        "45FP": [
+          {
+            "segmentation": [
+              247,
+              262,
+              308,
+              262,
+              308,
+              324,
+              247,
+              324
+            ],
+            "category_id": 6,
+            "category_name": "45FP",
+            "number": 1
+          }
+        ]
+      }
+    },
+    {
+      "file_name": "Screenshot 2024-10-11 181823_scale0.65_rot270.png",
+      "width": 530,
+      "height": 548,
+      "is_multi_slice": false,
+      "annotations": {
+        "45FP": [
+          {
+            "segmentation": [
+              266,
+              240,
+              326,
+              240,
+              326,
+              300,
+              266,
+              300
+            ],
+            "category_id": 6,
+            "category_name": "45FP",
+            "number": 1
+          }
+        ]
+      }
+    },
+    {
+      "file_name": "Screenshot 2024-10-11 182118_scale0.8_rot0.png",
+      "width": 687,
+      "height": 650,
+      "is_multi_slice": false,
+      "annotations": {
+        "FRGNP": [
+          {
+            "segmentation": [
+              287,
+              265,
+              362,
+              265,
+              362,
+              336,
+              287,
+              336
+            ],
+            "category_id": 19,
+            "category_name": "FRGNP",
+            "number": 1
+          }
+        ]
+      }
+    },
+    {
+      "file_name": "Screenshot 2024-10-11 182118_scale0.8_rot2.png",
+      "width": 709,
+      "height": 673,
+      "is_multi_slice": false,
+      "annotations": {
+        "FRGNP": [
+          {
+            "segmentation": [
+              301,
+              280,
+              368,
+              280,
+              368,
+              345,
+              301,
+              345
+            ],
+            "category_id": 19,
+            "category_name": "FRGNP",
+            "number": 1
+          }
+        ]
+      }
+    },
+    {
+      "file_name": "Screenshot 2024-10-11 182118_scale0.8_rot30.png",
+      "width": 919,
+      "height": 906,
+      "is_multi_slice": false,
+      "annotations": {
+        "FRGNP": [
+          {
+            "segmentation": [
+              387,
+              407,
+              473,
+              407,
+              473,
+              479,
+              387,
+              479
+            ],
+            "category_id": 19,
+            "category_name": "FRGNP",
+            "number": 1
+          }
+        ]
+      }
+    },
+    {
+      "file_name": "Screenshot 2024-10-11 182118_scale0.8_rot45.png",
+      "width": 945,
+      "height": 945,
+      "is_multi_slice": false,
+      "annotations": {
+        "FRGNP": [
+          {
+            "segmentation": [
+              398,
+              424,
+              484,
+              424,
+              484,
+              510,
+              398,
+              510
+            ],
+            "category_id": 19,
+            "category_name": "FRGNP",
+            "number": 1
+          }
+        ]
+      }
+    },
+    {
+      "file_name": "Screenshot 2024-10-11 182118_scale0.8_rot90.png",
+      "width": 650,
+      "height": 687,
+      "is_multi_slice": false,
+      "annotations": {
+        "FRGNP": [
+          {
+            "segmentation": [
+              265,
+              328,
+              335,
+              328,
+              335,
+              399,
+              265,
+              399
+            ],
+            "category_id": 19,
+            "category_name": "FRGNP",
+            "number": 1
+          }
+        ]
+      }
+    },
+    {
+      "file_name": "Screenshot 2024-10-11 182118_scale0.8_rot180.png",
+      "width": 687,
+      "height": 650,
+      "is_multi_slice": false,
+      "annotations": {
+        "FRGNP": [
+          {
+            "segmentation": [
+              331,
+              315,
+              397,
+              315,
+              397,
+              384,
+              331,
+              384
+            ],
+            "category_id": 19,
+            "category_name": "FRGNP",
+            "number": 1
+          }
+        ]
+      }
+    },
+    {
+      "file_name": "Screenshot 2024-10-11 182118_scale0.8_rot270.png",
+      "width": 650,
+      "height": 687,
+      "is_multi_slice": false,
+      "annotations": {
+        "FRGNP": [
+          {
+            "segmentation": [
+              319,
+              293,
+              383,
+              293,
+              383,
+              360,
+              319,
+              360
+            ],
+            "category_id": 19,
+            "category_name": "FRGNP",
+            "number": 1
+          }
+        ]
+      }
+    },
+    {
+      "file_name": "Screenshot 2024-10-11 182118_scale0.9_rot0.png",
+      "width": 773,
+      "height": 731,
+      "is_multi_slice": false,
+      "annotations": {
+        "FRGNP": [
+          {
+            "segmentation": [
+              324,
+              302,
+              409,
+              302,
+              409,
+              375,
+              324,
+              375
+            ],
+            "category_id": 19,
+            "category_name": "FRGNP",
+            "number": 1
+          }
+        ]
+      }
+    },
+    {
+      "file_name": "Screenshot 2024-10-11 182118_scale0.9_rot2.png",
+      "width": 798,
+      "height": 757,
+      "is_multi_slice": false,
+      "annotations": {
+        "FRGNP": [
+          {
+            "segmentation": [
+              338,
+              315,
+              413,
+              315,
+              413,
+              391,
+              338,
+              391
+            ],
+            "category_id": 19,
+            "category_name": "FRGNP",
+            "number": 1
+          }
+        ]
+      }
+    },
+    {
+      "file_name": "Screenshot 2024-10-11 182118_scale0.9_rot30.png",
+      "width": 1034,
+      "height": 1019,
+      "is_multi_slice": false,
+      "annotations": {
+        "FRGNP": [
+          {
+            "segmentation": [
+              436,
+              456,
+              534,
+              456,
+              534,
+              540,
+              436,
+              540
+            ],
+            "category_id": 19,
+            "category_name": "FRGNP",
+            "number": 1
+          }
+        ]
+      }
+    },
+    {
+      "file_name": "Screenshot 2024-10-11 182118_scale0.9_rot45.png",
+      "width": 1063,
+      "height": 1063,
+      "is_multi_slice": false,
+      "annotations": {
+        "FRGNP": [
+          {
+            "segmentation": [
+              446,
+              476,
+              543,
+              476,
+              543,
+              576,
+              446,
+              576
+            ],
+            "category_id": 19,
+            "category_name": "FRGNP",
+            "number": 1
+          }
+        ]
+      }
+    },
+    {
+      "file_name": "Screenshot 2024-10-11 182118_scale0.9_rot90.png",
+      "width": 731,
+      "height": 773,
+      "is_multi_slice": false,
+      "annotations": {
+        "FRGNP": [
+          {
+            "segmentation": [
+              298,
+              374,
+              374,
+              374,
+              374,
+              451,
+              298,
+              451
+            ],
+            "category_id": 19,
+            "category_name": "FRGNP",
+            "number": 1
+          }
+        ]
+      }
+    },
+    {
+      "file_name": "Screenshot 2024-10-11 182118_scale0.9_rot180.png",
+      "width": 773,
+      "height": 731,
+      "is_multi_slice": false,
+      "annotations": {
+        "FRGNP": [
+          {
+            "segmentation": [
+              372,
+              353,
+              447,
+              353,
+              447,
+              431,
+              372,
+              431
+            ],
+            "category_id": 19,
+            "category_name": "FRGNP",
+            "number": 1
+          }
+        ]
+      }
+    },
+    {
+      "file_name": "Screenshot 2024-10-11 182118_scale0.9_rot270.png",
+      "width": 731,
+      "height": 773,
+      "is_multi_slice": false,
+      "annotations": {
+        "FRGNP": [
+          {
+            "segmentation": [
+              359,
+              328,
+              432,
+              328,
+              432,
+              402,
+              359,
+              402
+            ],
+            "category_id": 19,
+            "category_name": "FRGNP",
+            "number": 1
+          }
+        ]
+      }
+    },
+    {
+      "file_name": "Screenshot 2024-10-11 182118_scale0.65_rot0.png",
+      "width": 558,
+      "height": 528,
+      "is_multi_slice": false,
+      "annotations": {
+        "FRGNP": [
+          {
+            "segmentation": [
+              236,
+              215,
+              293,
+              215,
+              293,
+              276,
+              236,
+              276
+            ],
+            "category_id": 19,
+            "category_name": "FRGNP",
+            "number": 1
+          }
+        ]
+      }
+    },
+    {
+      "file_name": "Screenshot 2024-10-11 182118_scale0.65_rot2.png",
+      "width": 576,
+      "height": 547,
+      "is_multi_slice": false,
+      "annotations": {
+        "FRGNP": [
+          {
+            "segmentation": [
+              241,
+              227,
+              304,
+              227,
+              304,
+              282,
+              241,
+              282
+            ],
+            "category_id": 19,
+            "category_name": "FRGNP",
+            "number": 1
+          }
+        ]
+      }
+    },
+    {
+      "file_name": "Screenshot 2024-10-11 182118_scale0.65_rot30.png",
+      "width": 747,
+      "height": 736,
+      "is_multi_slice": false,
+      "annotations": {
+        "FRGNP": [
+          {
+            "segmentation": [
+              316,
+              320,
+              383,
+              320,
+              383,
+              393,
+              316,
+              393
+            ],
+            "category_id": 19,
+            "category_name": "FRGNP",
+            "number": 1
+          }
+        ]
+      }
+    },
+    {
+      "file_name": "Screenshot 2024-10-11 182118_scale0.65_rot45.png",
+      "width": 767,
+      "height": 767,
+      "is_multi_slice": false,
+      "annotations": {
+        "FRGNP": [
+          {
+            "segmentation": [
+              326,
+              346,
+              392,
+              346,
+              392,
+              417,
+              326,
+              417
+            ],
+            "category_id": 19,
+            "category_name": "FRGNP",
+            "number": 1
+          }
+        ]
+      }
+    },
+    {
+      "file_name": "Screenshot 2024-10-11 182118_scale0.65_rot90.png",
+      "width": 528,
+      "height": 558,
+      "is_multi_slice": false,
+      "annotations": {
+        "FRGNP": [
+          {
+            "segmentation": [
+              219,
+              269,
+              274,
+              269,
+              274,
+              326,
+              219,
+              326
+            ],
+            "category_id": 19,
+            "category_name": "FRGNP",
+            "number": 1
+          }
+        ]
+      }
+    },
+    {
+      "file_name": "Screenshot 2024-10-11 182118_scale0.65_rot180.png",
+      "width": 558,
+      "height": 528,
+      "is_multi_slice": false,
+      "annotations": {
+        "FRGNP": [
+          {
+            "segmentation": [
+              269,
+              257,
+              324,
+              257,
+              324,
+              313,
+              269,
+              313
+            ],
+            "category_id": 19,
+            "category_name": "FRGNP",
+            "number": 1
+          }
+        ]
+      }
+    },
+    {
+      "file_name": "Screenshot 2024-10-11 182118_scale0.65_rot270.png",
+      "width": 528,
+      "height": 558,
+      "is_multi_slice": false,
+      "annotations": {
+        "FRGNP": [
+          {
+            "segmentation": [
+              259,
+              234,
+              316,
+              234,
+              316,
+              291,
+              259,
+              291
+            ],
+            "category_id": 19,
+            "category_name": "FRGNP",
+            "number": 1
+          }
+        ]
+      }
+    },
+    {
+      "file_name": "Screenshot 2024-10-11 175830_scale0.8_rot0.png",
+      "width": 670,
+      "height": 641,
+      "is_multi_slice": false,
+      "annotations": {
+        "GEN": [
+          {
+            "segmentation": [
+              289,
+              250,
+              359,
+              250,
+              359,
+              314,
+              289,
+              314
+            ],
+            "category_id": 22,
+            "category_name": "GEN",
+            "number": 1
+          }
+        ]
+      }
+    },
+    {
+      "file_name": "Screenshot 2024-10-11 175830_scale0.8_rot2.png",
+      "width": 691,
+      "height": 663,
+      "is_multi_slice": false,
+      "annotations": {
+        "GEN": [
+          {
+            "segmentation": [
+              296,
+              258,
+              372,
+              258,
+              372,
+              329,
+              296,
+              329
+            ],
+            "category_id": 22,
+            "category_name": "GEN",
+            "number": 1
+          }
+        ]
+      }
+    },
+    {
+      "file_name": "Screenshot 2024-10-11 175830_scale0.8_rot30.png",
+      "width": 900,
+      "height": 890,
+      "is_multi_slice": false,
+      "annotations": {
+        "GEN": [
+          {
+            "segmentation": [
+              384,
+              385,
+              455,
+              385,
+              455,
+              449,
+              384,
+              449
+            ],
+            "category_id": 22,
+            "category_name": "GEN",
+            "number": 1
+          }
+        ]
+      }
+    },
+    {
+      "file_name": "Screenshot 2024-10-11 175830_scale0.8_rot45.png",
+      "width": 927,
+      "height": 927,
+      "is_multi_slice": false,
+      "annotations": {
+        "GEN": [
+          {
+            "segmentation": [
+              389,
+              413,
+              464,
+              413,
+              464,
+              475,
+              389,
+              475
+            ],
+            "category_id": 22,
+            "category_name": "GEN",
+            "number": 1
+          }
+        ]
+      }
+    },
+    {
+      "file_name": "Screenshot 2024-10-11 175830_scale0.8_rot90.png",
+      "width": 641,
+      "height": 670,
+      "is_multi_slice": false,
+      "annotations": {
+        "GEN": [
+          {
+            "segmentation": [
+              245,
+              311,
+              315,
+              311,
+              315,
+              383,
+              245,
+              383
+            ],
+            "category_id": 22,
+            "category_name": "GEN",
+            "number": 1
+          }
+        ]
+      }
+    },
+    {
+      "file_name": "Screenshot 2024-10-11 175830_scale0.8_rot180.png",
+      "width": 670,
+      "height": 641,
+      "is_multi_slice": false,
+      "annotations": {
+        "GEN": [
+          {
+            "segmentation": [
+              311,
+              327,
+              381,
+              327,
+              381,
+              397,
+              311,
+              397
+            ],
+            "category_id": 22,
+            "category_name": "GEN",
+            "number": 1
+          }
+        ]
+      }
+    },
+    {
+      "file_name": "Screenshot 2024-10-11 175830_scale0.8_rot270.png",
+      "width": 641,
+      "height": 670,
+      "is_multi_slice": false,
+      "annotations": {
+        "GEN": [
+          {
+            "segmentation": [
+              325,
+              293,
+              396,
+              293,
+              396,
+              360,
+              325,
+              360
+            ],
+            "category_id": 22,
+            "category_name": "GEN",
+            "number": 1
+          }
+        ]
+      }
+    },
+    {
+      "file_name": "Screenshot 2024-10-11 175830_scale0.9_rot0.png",
+      "width": 754,
+      "height": 721,
+      "is_multi_slice": false,
+      "annotations": {
+        "GEN": [
+          {
+            "segmentation": [
+              328,
+              278,
+              403,
+              278,
+              403,
+              355,
+              328,
+              355
+            ],
+            "category_id": 22,
+            "category_name": "GEN",
+            "number": 1
+          }
+        ]
+      }
+    },
+    {
+      "file_name": "Screenshot 2024-10-11 175830_scale0.9_rot2.png",
+      "width": 778,
+      "height": 746,
+      "is_multi_slice": false,
+      "annotations": {
+        "GEN": [
+          {
+            "segmentation": [
+              333,
+              292,
+              415,
+              292,
+              415,
+              367,
+              333,
+              367
+            ],
+            "category_id": 22,
+            "category_name": "GEN",
+            "number": 1
+          }
+        ]
+      }
+    },
+    {
+      "file_name": "Screenshot 2024-10-11 175830_scale0.9_rot30.png",
+      "width": 1013,
+      "height": 1001,
+      "is_multi_slice": false,
+      "annotations": {
+        "GEN": [
+          {
+            "segmentation": [
+              431,
+              432,
+              509,
+              432,
+              509,
+              506,
+              431,
+              506
+            ],
+            "category_id": 22,
+            "category_name": "GEN",
+            "number": 1
+          }
+        ]
+      }
+    },
+    {
+      "file_name": "Screenshot 2024-10-11 175830_scale0.9_rot45.png",
+      "width": 1042,
+      "height": 1042,
+      "is_multi_slice": false,
+      "annotations": {
+        "GEN": [
+          {
+            "segmentation": [
+              437,
+              459,
+              520,
+              459,
+              520,
+              537,
+              437,
+              537
+            ],
+            "category_id": 22,
+            "category_name": "GEN",
+            "number": 1
+          }
+        ]
+      }
+    },
+    {
+      "file_name": "Screenshot 2024-10-11 175830_scale0.9_rot90.png",
+      "width": 721,
+      "height": 754,
+      "is_multi_slice": false,
+      "annotations": {
+        "GEN": [
+          {
+            "segmentation": [
+              274,
+              351,
+              356,
+              351,
+              356,
+              427,
+              274,
+              427
+            ],
+            "category_id": 22,
+            "category_name": "GEN",
+            "number": 1
+          }
+        ]
+      }
+    },
+    {
+      "file_name": "Screenshot 2024-10-11 175830_scale0.9_rot180.png",
+      "width": 754,
+      "height": 721,
+      "is_multi_slice": false,
+      "annotations": {
+        "GEN": [
+          {
+            "segmentation": [
+              354,
+              363,
+              429,
+              363,
+              429,
+              448,
+              354,
+              448
+            ],
+            "category_id": 22,
+            "category_name": "GEN",
+            "number": 1
+          }
+        ]
+      }
+    },
+    {
+      "file_name": "Screenshot 2024-10-11 175830_scale0.9_rot270.png",
+      "width": 721,
+      "height": 754,
+      "is_multi_slice": false,
+      "annotations": {
+        "GEN": [
+          {
+            "segmentation": [
+              364,
+              326,
+              443,
+              326,
+              443,
+              404,
+              364,
+              404
+            ],
+            "category_id": 22,
+            "category_name": "GEN",
+            "number": 1
+          }
+        ]
+      }
+    },
+    {
+      "file_name": "Screenshot 2024-10-11 175830_scale0.65_rot0.png",
+      "width": 544,
+      "height": 521,
+      "is_multi_slice": false,
+      "annotations": {
+        "GEN": [
+          {
+            "segmentation": [
+              231,
+              197,
+              295,
+              197,
+              295,
+              258,
+              231,
+              258
+            ],
+            "category_id": 22,
+            "category_name": "GEN",
+            "number": 1
+          }
+        ]
+      }
+    },
+    {
+      "file_name": "Screenshot 2024-10-11 175830_scale0.65_rot2.png",
+      "width": 561,
+      "height": 539,
+      "is_multi_slice": false,
+      "annotations": {
+        "GEN": [
+          {
+            "segmentation": [
+              244,
+              209,
+              301,
+              209,
+              301,
+              264,
+              244,
+              264
+            ],
+            "category_id": 22,
+            "category_name": "GEN",
+            "number": 1
+          }
+        ]
+      }
+    },
+    {
+      "file_name": "Screenshot 2024-10-11 175830_scale0.65_rot30.png",
+      "width": 731,
+      "height": 723,
+      "is_multi_slice": false,
+      "annotations": {
+        "GEN": [
+          {
+            "segmentation": [
+              313,
+              313,
+              372,
+              313,
+              372,
+              364,
+              313,
+              364
+            ],
+            "category_id": 22,
+            "category_name": "GEN",
+            "number": 1
+          }
+        ]
+      }
+    },
+    {
+      "file_name": "Screenshot 2024-10-11 175830_scale0.65_rot45.png",
+      "width": 753,
+      "height": 753,
+      "is_multi_slice": false,
+      "annotations": {
+        "GEN": [
+          {
+            "segmentation": [
+              314,
+              330,
+              377,
+              330,
+              377,
+              388,
+              314,
+              388
+            ],
+            "category_id": 22,
+            "category_name": "GEN",
+            "number": 1
+          }
+        ]
+      }
+    },
+    {
+      "file_name": "Screenshot 2024-10-11 175830_scale0.65_rot90.png",
+      "width": 521,
+      "height": 544,
+      "is_multi_slice": false,
+      "annotations": {
+        "GEN": [
+          {
+            "segmentation": [
+              198,
+              251,
+              259,
+              251,
+              259,
+              309,
+              198,
+              309
+            ],
+            "category_id": 22,
+            "category_name": "GEN",
+            "number": 1
+          }
+        ]
+      }
+    },
+    {
+      "file_name": "Screenshot 2024-10-11 175830_scale0.65_rot180.png",
+      "width": 544,
+      "height": 521,
+      "is_multi_slice": false,
+      "annotations": {
+        "GEN": [
+          {
+            "segmentation": [
+              254,
+              263,
+              309,
+              263,
+              309,
+              323,
+              254,
+              323
+            ],
+            "category_id": 22,
+            "category_name": "GEN",
+            "number": 1
+          }
+        ]
+      }
+    },
+    {
+      "file_name": "Screenshot 2024-10-11 175830_scale0.65_rot270.png",
+      "width": 521,
+      "height": 544,
+      "is_multi_slice": false,
+      "annotations": {
+        "GEN": [
+          {
+            "segmentation": [
+              263,
+              233,
+              323,
+              233,
+              323,
+              292,
+              263,
+              292
+            ],
+            "category_id": 22,
+            "category_name": "GEN",
+            "number": 1
+          }
+        ]
+      }
     }
   ],
   "image_paths": {
@@ -109886,9 +114586,197 @@
     "Screenshot 2024-10-11 175244_scale1.25_rot45.png": "/Users/enerinn/Developer/CS25-338-main/Model/images/Screenshot 2024-10-11 175244_scale1.25_rot45.png",
     "Screenshot 2024-10-11 175244_scale1.25_rot90.png": "/Users/enerinn/Developer/CS25-338-main/Model/images/Screenshot 2024-10-11 175244_scale1.25_rot90.png",
     "Screenshot 2024-10-11 175244_scale1.25_rot180.png": "/Users/enerinn/Developer/CS25-338-main/Model/images/Screenshot 2024-10-11 175244_scale1.25_rot180.png",
-    "Screenshot 2024-10-11 175244_scale1.25_rot270.png": "/Users/enerinn/Developer/CS25-338-main/Model/images/Screenshot 2024-10-11 175244_scale1.25_rot270.png"
+    "Screenshot 2024-10-11 175244_scale1.25_rot270.png": "/Users/enerinn/Developer/CS25-338-main/Model/images/Screenshot 2024-10-11 175244_scale1.25_rot270.png",
+    "Screenshot 2024-10-11 181209_scale0.8_rot0.png": "/Users/enerinn/Developer/CS25-338-main/Model/images/Screenshot 2024-10-11 181209_scale0.8_rot0.png",
+    "Screenshot 2024-10-11 181209_scale0.8_rot2.png": "/Users/enerinn/Developer/CS25-338-main/Model/images/Screenshot 2024-10-11 181209_scale0.8_rot2.png",
+    "Screenshot 2024-10-11 181209_scale0.8_rot30.png": "/Users/enerinn/Developer/CS25-338-main/Model/images/Screenshot 2024-10-11 181209_scale0.8_rot30.png",
+    "Screenshot 2024-10-11 181209_scale0.8_rot45.png": "/Users/enerinn/Developer/CS25-338-main/Model/images/Screenshot 2024-10-11 181209_scale0.8_rot45.png",
+    "Screenshot 2024-10-11 181209_scale0.8_rot90.png": "/Users/enerinn/Developer/CS25-338-main/Model/images/Screenshot 2024-10-11 181209_scale0.8_rot90.png",
+    "Screenshot 2024-10-11 181209_scale0.8_rot180.png": "/Users/enerinn/Developer/CS25-338-main/Model/images/Screenshot 2024-10-11 181209_scale0.8_rot180.png",
+    "Screenshot 2024-10-11 181209_scale0.8_rot270.png": "/Users/enerinn/Developer/CS25-338-main/Model/images/Screenshot 2024-10-11 181209_scale0.8_rot270.png",
+    "Screenshot 2024-10-11 181209_scale0.9_rot0.png": "/Users/enerinn/Developer/CS25-338-main/Model/images/Screenshot 2024-10-11 181209_scale0.9_rot0.png",
+    "Screenshot 2024-10-11 181209_scale0.9_rot2.png": "/Users/enerinn/Developer/CS25-338-main/Model/images/Screenshot 2024-10-11 181209_scale0.9_rot2.png",
+    "Screenshot 2024-10-11 181209_scale0.9_rot30.png": "/Users/enerinn/Developer/CS25-338-main/Model/images/Screenshot 2024-10-11 181209_scale0.9_rot30.png",
+    "Screenshot 2024-10-11 181209_scale0.9_rot45.png": "/Users/enerinn/Developer/CS25-338-main/Model/images/Screenshot 2024-10-11 181209_scale0.9_rot45.png",
+    "Screenshot 2024-10-11 181209_scale0.9_rot90.png": "/Users/enerinn/Developer/CS25-338-main/Model/images/Screenshot 2024-10-11 181209_scale0.9_rot90.png",
+    "Screenshot 2024-10-11 181209_scale0.9_rot180.png": "/Users/enerinn/Developer/CS25-338-main/Model/images/Screenshot 2024-10-11 181209_scale0.9_rot180.png",
+    "Screenshot 2024-10-11 181209_scale0.9_rot270.png": "/Users/enerinn/Developer/CS25-338-main/Model/images/Screenshot 2024-10-11 181209_scale0.9_rot270.png",
+    "Screenshot 2024-10-11 181209_scale0.65_rot0.png": "/Users/enerinn/Developer/CS25-338-main/Model/images/Screenshot 2024-10-11 181209_scale0.65_rot0.png",
+    "Screenshot 2024-10-11 181209_scale0.65_rot2.png": "/Users/enerinn/Developer/CS25-338-main/Model/images/Screenshot 2024-10-11 181209_scale0.65_rot2.png",
+    "Screenshot 2024-10-11 181209_scale0.65_rot30.png": "/Users/enerinn/Developer/CS25-338-main/Model/images/Screenshot 2024-10-11 181209_scale0.65_rot30.png",
+    "Screenshot 2024-10-11 181209_scale0.65_rot45.png": "/Users/enerinn/Developer/CS25-338-main/Model/images/Screenshot 2024-10-11 181209_scale0.65_rot45.png",
+    "Screenshot 2024-10-11 181209_scale0.65_rot90.png": "/Users/enerinn/Developer/CS25-338-main/Model/images/Screenshot 2024-10-11 181209_scale0.65_rot90.png",
+    "Screenshot 2024-10-11 181209_scale0.65_rot180.png": "/Users/enerinn/Developer/CS25-338-main/Model/images/Screenshot 2024-10-11 181209_scale0.65_rot180.png",
+    "Screenshot 2024-10-11 181209_scale0.65_rot270.png": "/Users/enerinn/Developer/CS25-338-main/Model/images/Screenshot 2024-10-11 181209_scale0.65_rot270.png",
+    "Screenshot 2024-10-11 181343_scale0.8_rot0.png": "/Users/enerinn/Developer/CS25-338-main/Model/images/Screenshot 2024-10-11 181343_scale0.8_rot0.png",
+    "Screenshot 2024-10-11 181343_scale0.8_rot2.png": "/Users/enerinn/Developer/CS25-338-main/Model/images/Screenshot 2024-10-11 181343_scale0.8_rot2.png",
+    "Screenshot 2024-10-11 181343_scale0.8_rot30.png": "/Users/enerinn/Developer/CS25-338-main/Model/images/Screenshot 2024-10-11 181343_scale0.8_rot30.png",
+    "Screenshot 2024-10-11 181343_scale0.8_rot45.png": "/Users/enerinn/Developer/CS25-338-main/Model/images/Screenshot 2024-10-11 181343_scale0.8_rot45.png",
+    "Screenshot 2024-10-11 181343_scale0.8_rot90.png": "/Users/enerinn/Developer/CS25-338-main/Model/images/Screenshot 2024-10-11 181343_scale0.8_rot90.png",
+    "Screenshot 2024-10-11 181343_scale0.8_rot180.png": "/Users/enerinn/Developer/CS25-338-main/Model/images/Screenshot 2024-10-11 181343_scale0.8_rot180.png",
+    "Screenshot 2024-10-11 181343_scale0.8_rot270.png": "/Users/enerinn/Developer/CS25-338-main/Model/images/Screenshot 2024-10-11 181343_scale0.8_rot270.png",
+    "Screenshot 2024-10-11 181343_scale0.9_rot0.png": "/Users/enerinn/Developer/CS25-338-main/Model/images/Screenshot 2024-10-11 181343_scale0.9_rot0.png",
+    "Screenshot 2024-10-11 181343_scale0.9_rot2.png": "/Users/enerinn/Developer/CS25-338-main/Model/images/Screenshot 2024-10-11 181343_scale0.9_rot2.png",
+    "Screenshot 2024-10-11 181343_scale0.9_rot30.png": "/Users/enerinn/Developer/CS25-338-main/Model/images/Screenshot 2024-10-11 181343_scale0.9_rot30.png",
+    "Screenshot 2024-10-11 181343_scale0.9_rot45.png": "/Users/enerinn/Developer/CS25-338-main/Model/images/Screenshot 2024-10-11 181343_scale0.9_rot45.png",
+    "Screenshot 2024-10-11 181343_scale0.9_rot90.png": "/Users/enerinn/Developer/CS25-338-main/Model/images/Screenshot 2024-10-11 181343_scale0.9_rot90.png",
+    "Screenshot 2024-10-11 181343_scale0.9_rot180.png": "/Users/enerinn/Developer/CS25-338-main/Model/images/Screenshot 2024-10-11 181343_scale0.9_rot180.png",
+    "Screenshot 2024-10-11 181343_scale0.9_rot270.png": "/Users/enerinn/Developer/CS25-338-main/Model/images/Screenshot 2024-10-11 181343_scale0.9_rot270.png",
+    "Screenshot 2024-10-11 181343_scale0.65_rot0.png": "/Users/enerinn/Developer/CS25-338-main/Model/images/Screenshot 2024-10-11 181343_scale0.65_rot0.png",
+    "Screenshot 2024-10-11 181343_scale0.65_rot2.png": "/Users/enerinn/Developer/CS25-338-main/Model/images/Screenshot 2024-10-11 181343_scale0.65_rot2.png",
+    "Screenshot 2024-10-11 181343_scale0.65_rot30.png": "/Users/enerinn/Developer/CS25-338-main/Model/images/Screenshot 2024-10-11 181343_scale0.65_rot30.png",
+    "Screenshot 2024-10-11 181343_scale0.65_rot45.png": "/Users/enerinn/Developer/CS25-338-main/Model/images/Screenshot 2024-10-11 181343_scale0.65_rot45.png",
+    "Screenshot 2024-10-11 181343_scale0.65_rot90.png": "/Users/enerinn/Developer/CS25-338-main/Model/images/Screenshot 2024-10-11 181343_scale0.65_rot90.png",
+    "Screenshot 2024-10-11 181343_scale0.65_rot180.png": "/Users/enerinn/Developer/CS25-338-main/Model/images/Screenshot 2024-10-11 181343_scale0.65_rot180.png",
+    "Screenshot 2024-10-11 181343_scale0.65_rot270.png": "/Users/enerinn/Developer/CS25-338-main/Model/images/Screenshot 2024-10-11 181343_scale0.65_rot270.png",
+    "Screenshot 2024-10-11 181527_scale0.8_rot0.png": "/Users/enerinn/Developer/CS25-338-main/Model/images/Screenshot 2024-10-11 181527_scale0.8_rot0.png",
+    "Screenshot 2024-10-11 181527_scale0.8_rot2.png": "/Users/enerinn/Developer/CS25-338-main/Model/images/Screenshot 2024-10-11 181527_scale0.8_rot2.png",
+    "Screenshot 2024-10-11 181527_scale0.8_rot30.png": "/Users/enerinn/Developer/CS25-338-main/Model/images/Screenshot 2024-10-11 181527_scale0.8_rot30.png",
+    "Screenshot 2024-10-11 181527_scale0.8_rot45.png": "/Users/enerinn/Developer/CS25-338-main/Model/images/Screenshot 2024-10-11 181527_scale0.8_rot45.png",
+    "Screenshot 2024-10-11 181527_scale0.8_rot90.png": "/Users/enerinn/Developer/CS25-338-main/Model/images/Screenshot 2024-10-11 181527_scale0.8_rot90.png",
+    "Screenshot 2024-10-11 181527_scale0.8_rot180.png": "/Users/enerinn/Developer/CS25-338-main/Model/images/Screenshot 2024-10-11 181527_scale0.8_rot180.png",
+    "Screenshot 2024-10-11 181527_scale0.8_rot270.png": "/Users/enerinn/Developer/CS25-338-main/Model/images/Screenshot 2024-10-11 181527_scale0.8_rot270.png",
+    "Screenshot 2024-10-11 181527_scale0.9_rot0.png": "/Users/enerinn/Developer/CS25-338-main/Model/images/Screenshot 2024-10-11 181527_scale0.9_rot0.png",
+    "Screenshot 2024-10-11 181527_scale0.9_rot2.png": "/Users/enerinn/Developer/CS25-338-main/Model/images/Screenshot 2024-10-11 181527_scale0.9_rot2.png",
+    "Screenshot 2024-10-11 181527_scale0.9_rot30.png": "/Users/enerinn/Developer/CS25-338-main/Model/images/Screenshot 2024-10-11 181527_scale0.9_rot30.png",
+    "Screenshot 2024-10-11 181527_scale0.9_rot45.png": "/Users/enerinn/Developer/CS25-338-main/Model/images/Screenshot 2024-10-11 181527_scale0.9_rot45.png",
+    "Screenshot 2024-10-11 181527_scale0.9_rot90.png": "/Users/enerinn/Developer/CS25-338-main/Model/images/Screenshot 2024-10-11 181527_scale0.9_rot90.png",
+    "Screenshot 2024-10-11 181527_scale0.9_rot180.png": "/Users/enerinn/Developer/CS25-338-main/Model/images/Screenshot 2024-10-11 181527_scale0.9_rot180.png",
+    "Screenshot 2024-10-11 181527_scale0.9_rot270.png": "/Users/enerinn/Developer/CS25-338-main/Model/images/Screenshot 2024-10-11 181527_scale0.9_rot270.png",
+    "Screenshot 2024-10-11 181527_scale0.65_rot0.png": "/Users/enerinn/Developer/CS25-338-main/Model/images/Screenshot 2024-10-11 181527_scale0.65_rot0.png",
+    "Screenshot 2024-10-11 181527_scale0.65_rot2.png": "/Users/enerinn/Developer/CS25-338-main/Model/images/Screenshot 2024-10-11 181527_scale0.65_rot2.png",
+    "Screenshot 2024-10-11 181527_scale0.65_rot30.png": "/Users/enerinn/Developer/CS25-338-main/Model/images/Screenshot 2024-10-11 181527_scale0.65_rot30.png",
+    "Screenshot 2024-10-11 181527_scale0.65_rot45.png": "/Users/enerinn/Developer/CS25-338-main/Model/images/Screenshot 2024-10-11 181527_scale0.65_rot45.png",
+    "Screenshot 2024-10-11 181527_scale0.65_rot90.png": "/Users/enerinn/Developer/CS25-338-main/Model/images/Screenshot 2024-10-11 181527_scale0.65_rot90.png",
+    "Screenshot 2024-10-11 181527_scale0.65_rot180.png": "/Users/enerinn/Developer/CS25-338-main/Model/images/Screenshot 2024-10-11 181527_scale0.65_rot180.png",
+    "Screenshot 2024-10-11 181527_scale0.65_rot270.png": "/Users/enerinn/Developer/CS25-338-main/Model/images/Screenshot 2024-10-11 181527_scale0.65_rot270.png",
+    "Screenshot 2024-10-11 180805_scale0.8_rot0.png": "/Users/enerinn/Developer/CS25-338-main/Model/images/Screenshot 2024-10-11 180805_scale0.8_rot0.png",
+    "Screenshot 2024-10-11 180805_scale0.8_rot2.png": "/Users/enerinn/Developer/CS25-338-main/Model/images/Screenshot 2024-10-11 180805_scale0.8_rot2.png",
+    "Screenshot 2024-10-11 180805_scale0.8_rot45.png": "/Users/enerinn/Developer/CS25-338-main/Model/images/Screenshot 2024-10-11 180805_scale0.8_rot45.png",
+    "Screenshot 2024-10-11 180805_scale0.8_rot90.png": "/Users/enerinn/Developer/CS25-338-main/Model/images/Screenshot 2024-10-11 180805_scale0.8_rot90.png",
+    "Screenshot 2024-10-11 180805_scale0.8_rot180.png": "/Users/enerinn/Developer/CS25-338-main/Model/images/Screenshot 2024-10-11 180805_scale0.8_rot180.png",
+    "Screenshot 2024-10-11 180805_scale0.8_rot270.png": "/Users/enerinn/Developer/CS25-338-main/Model/images/Screenshot 2024-10-11 180805_scale0.8_rot270.png",
+    "Screenshot 2024-10-11 180805_scale0.9_rot0.png": "/Users/enerinn/Developer/CS25-338-main/Model/images/Screenshot 2024-10-11 180805_scale0.9_rot0.png",
+    "Screenshot 2024-10-11 180805_scale0.9_rot2.png": "/Users/enerinn/Developer/CS25-338-main/Model/images/Screenshot 2024-10-11 180805_scale0.9_rot2.png",
+    "Screenshot 2024-10-11 180805_scale0.9_rot30.png": "/Users/enerinn/Developer/CS25-338-main/Model/images/Screenshot 2024-10-11 180805_scale0.9_rot30.png",
+    "Screenshot 2024-10-11 180805_scale0.9_rot45.png": "/Users/enerinn/Developer/CS25-338-main/Model/images/Screenshot 2024-10-11 180805_scale0.9_rot45.png",
+    "Screenshot 2024-10-11 180805_scale0.9_rot90.png": "/Users/enerinn/Developer/CS25-338-main/Model/images/Screenshot 2024-10-11 180805_scale0.9_rot90.png",
+    "Screenshot 2024-10-11 180805_scale0.9_rot180.png": "/Users/enerinn/Developer/CS25-338-main/Model/images/Screenshot 2024-10-11 180805_scale0.9_rot180.png",
+    "Screenshot 2024-10-11 180805_scale0.9_rot270.png": "/Users/enerinn/Developer/CS25-338-main/Model/images/Screenshot 2024-10-11 180805_scale0.9_rot270.png",
+    "Screenshot 2024-10-11 180805_scale0.65_rot0.png": "/Users/enerinn/Developer/CS25-338-main/Model/images/Screenshot 2024-10-11 180805_scale0.65_rot0.png",
+    "Screenshot 2024-10-11 180805_scale0.65_rot2.png": "/Users/enerinn/Developer/CS25-338-main/Model/images/Screenshot 2024-10-11 180805_scale0.65_rot2.png",
+    "Screenshot 2024-10-11 180805_scale0.65_rot30.png": "/Users/enerinn/Developer/CS25-338-main/Model/images/Screenshot 2024-10-11 180805_scale0.65_rot30.png",
+    "Screenshot 2024-10-11 180805_scale0.65_rot45.png": "/Users/enerinn/Developer/CS25-338-main/Model/images/Screenshot 2024-10-11 180805_scale0.65_rot45.png",
+    "Screenshot 2024-10-11 180805_scale0.65_rot90.png": "/Users/enerinn/Developer/CS25-338-main/Model/images/Screenshot 2024-10-11 180805_scale0.65_rot90.png",
+    "Screenshot 2024-10-11 180805_scale0.65_rot180.png": "/Users/enerinn/Developer/CS25-338-main/Model/images/Screenshot 2024-10-11 180805_scale0.65_rot180.png",
+    "Screenshot 2024-10-11 180805_scale0.65_rot270.png": "/Users/enerinn/Developer/CS25-338-main/Model/images/Screenshot 2024-10-11 180805_scale0.65_rot270.png",
+    "Screenshot 2024-10-11 180808_scale0.8_rot0.png": "/Users/enerinn/Developer/CS25-338-main/Model/images/Screenshot 2024-10-11 180808_scale0.8_rot0.png",
+    "Screenshot 2024-10-11 180808_scale0.8_rot2.png": "/Users/enerinn/Developer/CS25-338-main/Model/images/Screenshot 2024-10-11 180808_scale0.8_rot2.png",
+    "Screenshot 2024-10-11 180808_scale0.8_rot30.png": "/Users/enerinn/Developer/CS25-338-main/Model/images/Screenshot 2024-10-11 180808_scale0.8_rot30.png",
+    "Screenshot 2024-10-11 180808_scale0.8_rot45.png": "/Users/enerinn/Developer/CS25-338-main/Model/images/Screenshot 2024-10-11 180808_scale0.8_rot45.png",
+    "Screenshot 2024-10-11 180808_scale0.8_rot90.png": "/Users/enerinn/Developer/CS25-338-main/Model/images/Screenshot 2024-10-11 180808_scale0.8_rot90.png",
+    "Screenshot 2024-10-11 180808_scale0.8_rot180.png": "/Users/enerinn/Developer/CS25-338-main/Model/images/Screenshot 2024-10-11 180808_scale0.8_rot180.png",
+    "Screenshot 2024-10-11 180808_scale0.8_rot270.png": "/Users/enerinn/Developer/CS25-338-main/Model/images/Screenshot 2024-10-11 180808_scale0.8_rot270.png",
+    "Screenshot 2024-10-11 180808_scale0.9_rot0.png": "/Users/enerinn/Developer/CS25-338-main/Model/images/Screenshot 2024-10-11 180808_scale0.9_rot0.png",
+    "Screenshot 2024-10-11 180808_scale0.9_rot2.png": "/Users/enerinn/Developer/CS25-338-main/Model/images/Screenshot 2024-10-11 180808_scale0.9_rot2.png",
+    "Screenshot 2024-10-11 180808_scale0.9_rot30.png": "/Users/enerinn/Developer/CS25-338-main/Model/images/Screenshot 2024-10-11 180808_scale0.9_rot30.png",
+    "Screenshot 2024-10-11 180808_scale0.9_rot45.png": "/Users/enerinn/Developer/CS25-338-main/Model/images/Screenshot 2024-10-11 180808_scale0.9_rot45.png",
+    "Screenshot 2024-10-11 180808_scale0.9_rot90.png": "/Users/enerinn/Developer/CS25-338-main/Model/images/Screenshot 2024-10-11 180808_scale0.9_rot90.png",
+    "Screenshot 2024-10-11 180808_scale0.9_rot180.png": "/Users/enerinn/Developer/CS25-338-main/Model/images/Screenshot 2024-10-11 180808_scale0.9_rot180.png",
+    "Screenshot 2024-10-11 180808_scale0.9_rot270.png": "/Users/enerinn/Developer/CS25-338-main/Model/images/Screenshot 2024-10-11 180808_scale0.9_rot270.png",
+    "Screenshot 2024-10-11 180808_scale0.65_rot0.png": "/Users/enerinn/Developer/CS25-338-main/Model/images/Screenshot 2024-10-11 180808_scale0.65_rot0.png",
+    "Screenshot 2024-10-11 180808_scale0.65_rot2.png": "/Users/enerinn/Developer/CS25-338-main/Model/images/Screenshot 2024-10-11 180808_scale0.65_rot2.png",
+    "Screenshot 2024-10-11 180808_scale0.65_rot30.png": "/Users/enerinn/Developer/CS25-338-main/Model/images/Screenshot 2024-10-11 180808_scale0.65_rot30.png",
+    "Screenshot 2024-10-11 180808_scale0.65_rot45.png": "/Users/enerinn/Developer/CS25-338-main/Model/images/Screenshot 2024-10-11 180808_scale0.65_rot45.png",
+    "Screenshot 2024-10-11 180808_scale0.65_rot90.png": "/Users/enerinn/Developer/CS25-338-main/Model/images/Screenshot 2024-10-11 180808_scale0.65_rot90.png",
+    "Screenshot 2024-10-11 180808_scale0.65_rot180.png": "/Users/enerinn/Developer/CS25-338-main/Model/images/Screenshot 2024-10-11 180808_scale0.65_rot180.png",
+    "Screenshot 2024-10-11 180808_scale0.65_rot270.png": "/Users/enerinn/Developer/CS25-338-main/Model/images/Screenshot 2024-10-11 180808_scale0.65_rot270.png",
+    "Screenshot 2024-10-11 181650_scale0.8_rot0.png": "/Users/enerinn/Developer/CS25-338-main/Model/images/Screenshot 2024-10-11 181650_scale0.8_rot0.png",
+    "Screenshot 2024-10-11 181650_scale0.8_rot2.png": "/Users/enerinn/Developer/CS25-338-main/Model/images/Screenshot 2024-10-11 181650_scale0.8_rot2.png",
+    "Screenshot 2024-10-11 181650_scale0.8_rot30.png": "/Users/enerinn/Developer/CS25-338-main/Model/images/Screenshot 2024-10-11 181650_scale0.8_rot30.png",
+    "Screenshot 2024-10-11 181650_scale0.8_rot45.png": "/Users/enerinn/Developer/CS25-338-main/Model/images/Screenshot 2024-10-11 181650_scale0.8_rot45.png",
+    "Screenshot 2024-10-11 181650_scale0.8_rot90.png": "/Users/enerinn/Developer/CS25-338-main/Model/images/Screenshot 2024-10-11 181650_scale0.8_rot90.png",
+    "Screenshot 2024-10-11 181650_scale0.8_rot180.png": "/Users/enerinn/Developer/CS25-338-main/Model/images/Screenshot 2024-10-11 181650_scale0.8_rot180.png",
+    "Screenshot 2024-10-11 181650_scale0.8_rot270.png": "/Users/enerinn/Developer/CS25-338-main/Model/images/Screenshot 2024-10-11 181650_scale0.8_rot270.png",
+    "Screenshot 2024-10-11 181650_scale0.9_rot0.png": "/Users/enerinn/Developer/CS25-338-main/Model/images/Screenshot 2024-10-11 181650_scale0.9_rot0.png",
+    "Screenshot 2024-10-11 181650_scale0.9_rot2.png": "/Users/enerinn/Developer/CS25-338-main/Model/images/Screenshot 2024-10-11 181650_scale0.9_rot2.png",
+    "Screenshot 2024-10-11 181650_scale0.9_rot30.png": "/Users/enerinn/Developer/CS25-338-main/Model/images/Screenshot 2024-10-11 181650_scale0.9_rot30.png",
+    "Screenshot 2024-10-11 181650_scale0.9_rot45.png": "/Users/enerinn/Developer/CS25-338-main/Model/images/Screenshot 2024-10-11 181650_scale0.9_rot45.png",
+    "Screenshot 2024-10-11 181650_scale0.9_rot90.png": "/Users/enerinn/Developer/CS25-338-main/Model/images/Screenshot 2024-10-11 181650_scale0.9_rot90.png",
+    "Screenshot 2024-10-11 181650_scale0.9_rot180.png": "/Users/enerinn/Developer/CS25-338-main/Model/images/Screenshot 2024-10-11 181650_scale0.9_rot180.png",
+    "Screenshot 2024-10-11 181650_scale0.9_rot270.png": "/Users/enerinn/Developer/CS25-338-main/Model/images/Screenshot 2024-10-11 181650_scale0.9_rot270.png",
+    "Screenshot 2024-10-11 181650_scale0.65_rot0.png": "/Users/enerinn/Developer/CS25-338-main/Model/images/Screenshot 2024-10-11 181650_scale0.65_rot0.png",
+    "Screenshot 2024-10-11 181650_scale0.65_rot2.png": "/Users/enerinn/Developer/CS25-338-main/Model/images/Screenshot 2024-10-11 181650_scale0.65_rot2.png",
+    "Screenshot 2024-10-11 181650_scale0.65_rot30.png": "/Users/enerinn/Developer/CS25-338-main/Model/images/Screenshot 2024-10-11 181650_scale0.65_rot30.png",
+    "Screenshot 2024-10-11 181650_scale0.65_rot45.png": "/Users/enerinn/Developer/CS25-338-main/Model/images/Screenshot 2024-10-11 181650_scale0.65_rot45.png",
+    "Screenshot 2024-10-11 181650_scale0.65_rot90.png": "/Users/enerinn/Developer/CS25-338-main/Model/images/Screenshot 2024-10-11 181650_scale0.65_rot90.png",
+    "Screenshot 2024-10-11 181650_scale0.65_rot180.png": "/Users/enerinn/Developer/CS25-338-main/Model/images/Screenshot 2024-10-11 181650_scale0.65_rot180.png",
+    "Screenshot 2024-10-11 181650_scale0.65_rot270.png": "/Users/enerinn/Developer/CS25-338-main/Model/images/Screenshot 2024-10-11 181650_scale0.65_rot270.png",
+    "Screenshot 2024-10-11 181823_scale0.8_rot0.png": "/Users/enerinn/Developer/CS25-338-main/Model/images/Screenshot 2024-10-11 181823_scale0.8_rot0.png",
+    "Screenshot 2024-10-11 181823_scale0.8_rot2.png": "/Users/enerinn/Developer/CS25-338-main/Model/images/Screenshot 2024-10-11 181823_scale0.8_rot2.png",
+    "Screenshot 2024-10-11 181823_scale0.8_rot30.png": "/Users/enerinn/Developer/CS25-338-main/Model/images/Screenshot 2024-10-11 181823_scale0.8_rot30.png",
+    "Screenshot 2024-10-11 181823_scale0.8_rot45.png": "/Users/enerinn/Developer/CS25-338-main/Model/images/Screenshot 2024-10-11 181823_scale0.8_rot45.png",
+    "Screenshot 2024-10-11 181823_scale0.8_rot90.png": "/Users/enerinn/Developer/CS25-338-main/Model/images/Screenshot 2024-10-11 181823_scale0.8_rot90.png",
+    "Screenshot 2024-10-11 181823_scale0.8_rot180.png": "/Users/enerinn/Developer/CS25-338-main/Model/images/Screenshot 2024-10-11 181823_scale0.8_rot180.png",
+    "Screenshot 2024-10-11 181823_scale0.8_rot270.png": "/Users/enerinn/Developer/CS25-338-main/Model/images/Screenshot 2024-10-11 181823_scale0.8_rot270.png",
+    "Screenshot 2024-10-11 181823_scale0.9_rot0.png": "/Users/enerinn/Developer/CS25-338-main/Model/images/Screenshot 2024-10-11 181823_scale0.9_rot0.png",
+    "Screenshot 2024-10-11 181823_scale0.9_rot2.png": "/Users/enerinn/Developer/CS25-338-main/Model/images/Screenshot 2024-10-11 181823_scale0.9_rot2.png",
+    "Screenshot 2024-10-11 181823_scale0.9_rot30.png": "/Users/enerinn/Developer/CS25-338-main/Model/images/Screenshot 2024-10-11 181823_scale0.9_rot30.png",
+    "Screenshot 2024-10-11 181823_scale0.9_rot45.png": "/Users/enerinn/Developer/CS25-338-main/Model/images/Screenshot 2024-10-11 181823_scale0.9_rot45.png",
+    "Screenshot 2024-10-11 181823_scale0.9_rot90.png": "/Users/enerinn/Developer/CS25-338-main/Model/images/Screenshot 2024-10-11 181823_scale0.9_rot90.png",
+    "Screenshot 2024-10-11 181823_scale0.9_rot180.png": "/Users/enerinn/Developer/CS25-338-main/Model/images/Screenshot 2024-10-11 181823_scale0.9_rot180.png",
+    "Screenshot 2024-10-11 181823_scale0.9_rot270.png": "/Users/enerinn/Developer/CS25-338-main/Model/images/Screenshot 2024-10-11 181823_scale0.9_rot270.png",
+    "Screenshot 2024-10-11 181823_scale0.65_rot0.png": "/Users/enerinn/Developer/CS25-338-main/Model/images/Screenshot 2024-10-11 181823_scale0.65_rot0.png",
+    "Screenshot 2024-10-11 181823_scale0.65_rot2.png": "/Users/enerinn/Developer/CS25-338-main/Model/images/Screenshot 2024-10-11 181823_scale0.65_rot2.png",
+    "Screenshot 2024-10-11 181823_scale0.65_rot30.png": "/Users/enerinn/Developer/CS25-338-main/Model/images/Screenshot 2024-10-11 181823_scale0.65_rot30.png",
+    "Screenshot 2024-10-11 181823_scale0.65_rot45.png": "/Users/enerinn/Developer/CS25-338-main/Model/images/Screenshot 2024-10-11 181823_scale0.65_rot45.png",
+    "Screenshot 2024-10-11 181823_scale0.65_rot90.png": "/Users/enerinn/Developer/CS25-338-main/Model/images/Screenshot 2024-10-11 181823_scale0.65_rot90.png",
+    "Screenshot 2024-10-11 181823_scale0.65_rot180.png": "/Users/enerinn/Developer/CS25-338-main/Model/images/Screenshot 2024-10-11 181823_scale0.65_rot180.png",
+    "Screenshot 2024-10-11 181823_scale0.65_rot270.png": "/Users/enerinn/Developer/CS25-338-main/Model/images/Screenshot 2024-10-11 181823_scale0.65_rot270.png",
+    "Screenshot 2024-10-11 182118_scale0.8_rot0.png": "/Users/enerinn/Developer/CS25-338-main/Model/images/Screenshot 2024-10-11 182118_scale0.8_rot0.png",
+    "Screenshot 2024-10-11 182118_scale0.8_rot2.png": "/Users/enerinn/Developer/CS25-338-main/Model/images/Screenshot 2024-10-11 182118_scale0.8_rot2.png",
+    "Screenshot 2024-10-11 182118_scale0.8_rot30.png": "/Users/enerinn/Developer/CS25-338-main/Model/images/Screenshot 2024-10-11 182118_scale0.8_rot30.png",
+    "Screenshot 2024-10-11 182118_scale0.8_rot45.png": "/Users/enerinn/Developer/CS25-338-main/Model/images/Screenshot 2024-10-11 182118_scale0.8_rot45.png",
+    "Screenshot 2024-10-11 182118_scale0.8_rot90.png": "/Users/enerinn/Developer/CS25-338-main/Model/images/Screenshot 2024-10-11 182118_scale0.8_rot90.png",
+    "Screenshot 2024-10-11 182118_scale0.8_rot180.png": "/Users/enerinn/Developer/CS25-338-main/Model/images/Screenshot 2024-10-11 182118_scale0.8_rot180.png",
+    "Screenshot 2024-10-11 182118_scale0.8_rot270.png": "/Users/enerinn/Developer/CS25-338-main/Model/images/Screenshot 2024-10-11 182118_scale0.8_rot270.png",
+    "Screenshot 2024-10-11 182118_scale0.9_rot0.png": "/Users/enerinn/Developer/CS25-338-main/Model/images/Screenshot 2024-10-11 182118_scale0.9_rot0.png",
+    "Screenshot 2024-10-11 182118_scale0.9_rot2.png": "/Users/enerinn/Developer/CS25-338-main/Model/images/Screenshot 2024-10-11 182118_scale0.9_rot2.png",
+    "Screenshot 2024-10-11 182118_scale0.9_rot30.png": "/Users/enerinn/Developer/CS25-338-main/Model/images/Screenshot 2024-10-11 182118_scale0.9_rot30.png",
+    "Screenshot 2024-10-11 182118_scale0.9_rot45.png": "/Users/enerinn/Developer/CS25-338-main/Model/images/Screenshot 2024-10-11 182118_scale0.9_rot45.png",
+    "Screenshot 2024-10-11 182118_scale0.9_rot90.png": "/Users/enerinn/Developer/CS25-338-main/Model/images/Screenshot 2024-10-11 182118_scale0.9_rot90.png",
+    "Screenshot 2024-10-11 182118_scale0.9_rot180.png": "/Users/enerinn/Developer/CS25-338-main/Model/images/Screenshot 2024-10-11 182118_scale0.9_rot180.png",
+    "Screenshot 2024-10-11 182118_scale0.9_rot270.png": "/Users/enerinn/Developer/CS25-338-main/Model/images/Screenshot 2024-10-11 182118_scale0.9_rot270.png",
+    "Screenshot 2024-10-11 182118_scale0.65_rot0.png": "/Users/enerinn/Developer/CS25-338-main/Model/images/Screenshot 2024-10-11 182118_scale0.65_rot0.png",
+    "Screenshot 2024-10-11 182118_scale0.65_rot2.png": "/Users/enerinn/Developer/CS25-338-main/Model/images/Screenshot 2024-10-11 182118_scale0.65_rot2.png",
+    "Screenshot 2024-10-11 182118_scale0.65_rot30.png": "/Users/enerinn/Developer/CS25-338-main/Model/images/Screenshot 2024-10-11 182118_scale0.65_rot30.png",
+    "Screenshot 2024-10-11 182118_scale0.65_rot45.png": "/Users/enerinn/Developer/CS25-338-main/Model/images/Screenshot 2024-10-11 182118_scale0.65_rot45.png",
+    "Screenshot 2024-10-11 182118_scale0.65_rot90.png": "/Users/enerinn/Developer/CS25-338-main/Model/images/Screenshot 2024-10-11 182118_scale0.65_rot90.png",
+    "Screenshot 2024-10-11 182118_scale0.65_rot180.png": "/Users/enerinn/Developer/CS25-338-main/Model/images/Screenshot 2024-10-11 182118_scale0.65_rot180.png",
+    "Screenshot 2024-10-11 182118_scale0.65_rot270.png": "/Users/enerinn/Developer/CS25-338-main/Model/images/Screenshot 2024-10-11 182118_scale0.65_rot270.png",
+    "Screenshot 2024-10-11 175830_scale0.8_rot0.png": "/Users/enerinn/Developer/CS25-338-main/Model/images/Screenshot 2024-10-11 175830_scale0.8_rot0.png",
+    "Screenshot 2024-10-11 175830_scale0.8_rot2.png": "/Users/enerinn/Developer/CS25-338-main/Model/images/Screenshot 2024-10-11 175830_scale0.8_rot2.png",
+    "Screenshot 2024-10-11 175830_scale0.8_rot30.png": "/Users/enerinn/Developer/CS25-338-main/Model/images/Screenshot 2024-10-11 175830_scale0.8_rot30.png",
+    "Screenshot 2024-10-11 175830_scale0.8_rot45.png": "/Users/enerinn/Developer/CS25-338-main/Model/images/Screenshot 2024-10-11 175830_scale0.8_rot45.png",
+    "Screenshot 2024-10-11 175830_scale0.8_rot90.png": "/Users/enerinn/Developer/CS25-338-main/Model/images/Screenshot 2024-10-11 175830_scale0.8_rot90.png",
+    "Screenshot 2024-10-11 175830_scale0.8_rot180.png": "/Users/enerinn/Developer/CS25-338-main/Model/images/Screenshot 2024-10-11 175830_scale0.8_rot180.png",
+    "Screenshot 2024-10-11 175830_scale0.8_rot270.png": "/Users/enerinn/Developer/CS25-338-main/Model/images/Screenshot 2024-10-11 175830_scale0.8_rot270.png",
+    "Screenshot 2024-10-11 175830_scale0.9_rot0.png": "/Users/enerinn/Developer/CS25-338-main/Model/images/Screenshot 2024-10-11 175830_scale0.9_rot0.png",
+    "Screenshot 2024-10-11 175830_scale0.9_rot2.png": "/Users/enerinn/Developer/CS25-338-main/Model/images/Screenshot 2024-10-11 175830_scale0.9_rot2.png",
+    "Screenshot 2024-10-11 175830_scale0.9_rot30.png": "/Users/enerinn/Developer/CS25-338-main/Model/images/Screenshot 2024-10-11 175830_scale0.9_rot30.png",
+    "Screenshot 2024-10-11 175830_scale0.9_rot45.png": "/Users/enerinn/Developer/CS25-338-main/Model/images/Screenshot 2024-10-11 175830_scale0.9_rot45.png",
+    "Screenshot 2024-10-11 175830_scale0.9_rot90.png": "/Users/enerinn/Developer/CS25-338-main/Model/images/Screenshot 2024-10-11 175830_scale0.9_rot90.png",
+    "Screenshot 2024-10-11 175830_scale0.9_rot180.png": "/Users/enerinn/Developer/CS25-338-main/Model/images/Screenshot 2024-10-11 175830_scale0.9_rot180.png",
+    "Screenshot 2024-10-11 175830_scale0.9_rot270.png": "/Users/enerinn/Developer/CS25-338-main/Model/images/Screenshot 2024-10-11 175830_scale0.9_rot270.png",
+    "Screenshot 2024-10-11 175830_scale0.65_rot0.png": "/Users/enerinn/Developer/CS25-338-main/Model/images/Screenshot 2024-10-11 175830_scale0.65_rot0.png",
+    "Screenshot 2024-10-11 175830_scale0.65_rot2.png": "/Users/enerinn/Developer/CS25-338-main/Model/images/Screenshot 2024-10-11 175830_scale0.65_rot2.png",
+    "Screenshot 2024-10-11 175830_scale0.65_rot30.png": "/Users/enerinn/Developer/CS25-338-main/Model/images/Screenshot 2024-10-11 175830_scale0.65_rot30.png",
+    "Screenshot 2024-10-11 175830_scale0.65_rot45.png": "/Users/enerinn/Developer/CS25-338-main/Model/images/Screenshot 2024-10-11 175830_scale0.65_rot45.png",
+    "Screenshot 2024-10-11 175830_scale0.65_rot90.png": "/Users/enerinn/Developer/CS25-338-main/Model/images/Screenshot 2024-10-11 175830_scale0.65_rot90.png",
+    "Screenshot 2024-10-11 175830_scale0.65_rot180.png": "/Users/enerinn/Developer/CS25-338-main/Model/images/Screenshot 2024-10-11 175830_scale0.65_rot180.png",
+    "Screenshot 2024-10-11 175830_scale0.65_rot270.png": "/Users/enerinn/Developer/CS25-338-main/Model/images/Screenshot 2024-10-11 175830_scale0.65_rot270.png"
   },
   "notes": "",
   "creation_date": "2025-02-13 19:36:17",
-  "last_modified": "2025-02-26T11:44:35.491621"
+  "last_modified": "2025-03-24T20:42:38.566288"
 }
