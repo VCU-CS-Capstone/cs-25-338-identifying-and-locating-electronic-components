@@ -42,6 +42,6 @@ Status Report Fall Week XX.md is a template for to copy-paste into new Status re
 | Week 11 Status Report | filled out abstract | finialize what we want to present on our expo poster | nothing at the moment, just keep preparing for expo |
 | Week 12 Status Report | meet with advisor to finalize our project work for the semester | finished expo poster and abstract | getting in contact with our advisor |
 | Week 13 Status Report | Contact with the advisor for any other final information | finalized all information for the EXPO and outlined information for each student to understand | Getting any information or contasct from our advisor |
-| Week 14 Status Report | | | |
+| Week 14 Status Report | prep for the expo next week | nothing | weekly zoom meeting with advisor no longer functioning, communicaiton completely broken down |
 | Week 15 Status Report | | | |
 | Week 16 Status Report | | | |
