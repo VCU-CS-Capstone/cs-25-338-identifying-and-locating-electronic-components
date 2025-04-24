@@ -1,0 +1,18 @@
+[project]
+name = "CS25-338"
+version = "0.1.0"
+description = "CS25-338 Project"
+readme = "Readme.md"
+requires-python = ">=3.12"
+dependencies = [
+    "ipykernel>=6.29.5",
+    "jupyter>=1.1.1",
+    "matplotlib>=3.10.0",
+    "notebook>=7.3.2",
+    "numpy>=2.2.1",
+    "pycocotools>=2.0.8",
+    "scikit-learn>=1.6.1",
+    "timm>=1.0.13",
+    "torch>=2.5.1",
+    "ultralytics>=8.3.23",
+]
